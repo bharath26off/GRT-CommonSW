@@ -1,0 +1,37 @@
+name: Build and Sync dev to test
+
+on:
+  push:
+    branches:
+      - dev
+
+jobs:
+  build-and-push:
+    runs-on: windows-latest
+
+    steps:
+      - name: Checkout dev branch
+        uses: actions/checkout@v3
+        with:
+          ref: dev
+
+      - name: Setup MSBuild
+        uses: microsoft/setup-msbuild@v1.1
+
+      - name: Restore NuGet packages
+        run: nuget restore GRT_BG1_V54.sln
+
+      - name: Build solution in Release mode
+        run: msbuild GRT_BG1_V54.sln /p:Configuration=Release
+
+      - name: Configure Git for pushing
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Push dev to test branch
+        run: |
+          git checkout -B test
+          git push origin test --force
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
