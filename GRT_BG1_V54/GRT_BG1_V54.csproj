@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{65AFC4E8-9E0D-461B-AD2F-29E91E0E25C0}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>GRT_BG1_V54</RootNamespace>
+    <AssemblyName>GRT_BG1_V54</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AdvMotAPI">
+      <HintPath>bin\AdvMotAPI.dll</HintPath>
+    </Reference>
+    <Reference Include="CardDLL">
+      <HintPath>bin\CardDLL.dll</HintPath>
+    </Reference>
+    <Reference Include="CylinderHelperLib">
+      <HintPath>bin\CylinderHelperLib.dll</HintPath>
+    </Reference>
+    <Reference Include="ExceptionLib">
+      <HintPath>bin\ExceptionLib.dll</HintPath>
+    </Reference>
+    <Reference Include="HelperClassLib">
+      <HintPath>bin\HelperClassLib.dll</HintPath>
+    </Reference>
+    <Reference Include="Master">
+      <HintPath>..\Master\bin\Debug\Master.exe</HintPath>
+    </Reference>
+    <Reference Include="ServoFunctions">
+      <HintPath>bin\ServoFunctions.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+    <Reference Include="VaccumHelperLib, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\VaccumHelperLib.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Data\CCD2Data.cs" />
+    <Compile Include="Data\PalletData.cs" />
+    <Compile Include="Function\Calibration\CalibrationController.cs" />
+    <Compile Include="Function\Calibration\StaticDynamic.cs" />
+    <Compile Include="Function\CommonClass\AxisManager.cs" />
+    <Compile Include="Function\CommonClass\ConveyorSystem.cs" />
+    <Compile Include="Function\CommonClass\FeederSystem.cs" />
+    <Compile Include="Function\CommonClass\GantrySystem.cs" />
+    <Compile Include="Function\CommonClass\Homing.cs" />
+    <Compile Include="Function\CommonClass\IOSystem.cs" />
+    <Compile Include="Function\CommonClass\NozzleSystem.cs" />
+    <Compile Include="Function\CommonClass\ScannerSystem.cs" />
+    <Compile Include="Function\CommonClass\VisionSystem.cs" />
+    <Compile Include="Function\DryRun\Feeding.cs" />
+    <Compile Include="Function\DryRun\LoadingConveyor.cs" />
+    <Compile Include="Function\DryRun\Pasting.cs" />
+    <Compile Include="Function\DryRun\WorkingConveyor1.cs" />
+    <Compile Include="Function\DryRun\WorkingConveyor2.cs" />
+    <Compile Include="Function\Interface\IAxis.cs" />
+    <Compile Include="Function\Interface\ICamera.cs" />
+    <Compile Include="Function\Interface\IConveyor.cs" />
+    <Compile Include="Function\Interface\IlodingConveyor.cs" />
+    <Compile Include="Function\Interface\IScanner.cs" />
+    <Compile Include="Function\Interface\IWorkingConveyor.cs" />
+    <Compile Include="Function\Interface\IWorkingConveyor2.cs" />
+    <Compile Include="Function\Production\Feeding.cs" />
+    <Compile Include="Function\Production\LoadingConveyor.cs" />
+    <Compile Include="Function\Production\Pasting.cs" />
+    <Compile Include="Function\Production\WorkingConveyor1.cs" />
+    <Compile Include="Function\Production\WorkingConveyor2.cs" />
+    <Compile Include="Function\StartApp\ParallelBase.cs" />
+    <Compile Include="Function\StartApp\Process.cs" />
+    <Compile Include="GlobalVar\Variable.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

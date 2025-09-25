@@ -1,0 +1,31 @@
+<GantryModule>
+	<Select></Select>
+	<ScannerModule>
+		<MovementPriority>
+			<Value>PressingModule_XAxis</Value>
+			<Value>PressingModule_ZAxis</Value>
+		</MovementPriority>
+		<SafePosition_Priority>
+			<Value>PressingModule_ZAxis</Value>
+			<Value>PressingModule_XAxis</Value>
+		</SafePosition_Priority>
+	</ScannerModule>
+	<Wk1Module>
+		<MovementPriority>
+			<Value>InspectionModule_XAxis</Value>
+			<Value>InspectionModule_YAxis</Value>
+		</MovementPriority>
+		<SafePosition_Priority>
+			<Value>InspectionModule_YAxis</Value>
+			<Value>InspectionModule_XAxis</Value>
+		</SafePosition_Priority>
+	</Wk1Module>
+	<Wk2Module>
+		<MovementPriority>
+			<Value>BTH_XAxis</Value>
+		</MovementPriority>
+		<SafePosition_Priority>
+			<Value>BTH_XAxis</Value>
+		</SafePosition_Priority>
+	</Wk2Module>
+</GantryModule>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!--Sample Cylinder Node with three types-->
+<Cylinders>
+	<!--Type1: Single Output, Single Input-->
+	<Cylinder CylinderConfig="Scan_Conv_Stopper_Cyl" ValveType="2" CylinderName="Scan_Conv_Stopper_Cyl" SenseExtendEnumName="Scan_Conv_1_Stop_Cyl_Up" SenseExtendInputAddress="X0_10" SenseRetractEnumName="Scan_Conv_1_Stop_Cyl_Down" SenseRetractInputAddress="X0_11" ValveExtendEnumName="Work_Conv_1_Stopper_Cyl_Up" ValveExtendOutputAddress="Y100_0" ValveRetractEnumName=" Work_Conv_1_Stopper_Cyl_Dn" ValveRetractOutputAddress="Y100_1" TimeoutSec="3" StableCountTime="5" ValveActionTime="100" LabelSafetoExtend="SafeExtend" LabelSafetoRetract="SafeRetract" ExtendReedButton="" ExtendCoilButton="Work" RetractCoilButton="Home" RetractReedButton="" SafeToExtendButton="" SafeToRetractButton="" EnableExtendReedButton="TRUE" EnableExtendCoilButton="TRUE" EnableRetractCoilButton="TRUE" EnableRetractReedButton="TRUE" EnableSafeToExtendButton="TRUE" EnableSafeToRetractButton="TRUE" EnableAllButtons="TRUE" ></Cylinder>
+	
+    <Cylinder CylinderConfig="Work_Conv_1_pallet_Lift_Cyl" ValveType="2" CylinderName="Work_Conv_1_pallet_Lift_Cyl" SenseExtendEnumName="Work_Conv_1_Pallet_Lift_Cyl_Up" SenseExtendInputAddress="X1_04" SenseRetractEnumName="Work_Conv_1_Pallet_Lift_Cyl_Dn" SenseRetractInputAddress="X1_05" ValveExtendEnumName="Work_Conv_1_pallet_Lift_Cyl_Up" ValveExtendOutputAddress="Y100_2" ValveRetractEnumName=" Work_Conv_1_Stopper_Cyl_Dn" ValveRetractOutputAddress="Y100_3" TimeoutSec="3" StableCountTime="5" ValveActionTime="100" LabelSafetoExtend="SafeExtend" LabelSafetoRetract="SafeRetract" ExtendReedButton="" ExtendCoilButton="Work" RetractCoilButton="Home" RetractReedButton="" SafeToExtendButton="" SafeToRetractButton="" EnableExtendReedButton="TRUE" EnableExtendCoilButton="TRUE" EnableRetractCoilButton="TRUE" EnableRetractReedButton="TRUE" EnableSafeToExtendButton="TRUE" EnableSafeToRetractButton="TRUE" EnableAllButtons="TRUE" ></Cylinder>
+	<Cylinder CylinderConfig="Work_Conv_1_Stopper_Cyl" ValveType="2" CylinderName="Work_Conv_1_Stopper_Cyl" SenseExtendEnumName="Work_Conv_1_Stopper_Cyl_Up" SenseExtendInputAddress="X1_06" SenseRetractEnumName="Work_Conv_1_Stopper_Cyl_Dn" SenseRetractInputAddress="X1_07" ValveExtendEnumName="Work_Conv_1_Stopper_Cyl_Up" ValveExtendOutputAddress="Y100_4" ValveRetractEnumName="Work_Conv_1_Stopper_Cyl_Dn" ValveRetractOutputAddress="Y100_5" TimeoutSec="3" StableCountTime="5" ValveActionTime="100" LabelSafetoExtend="SafeExtend" LabelSafetoRetract="SafeRetract" ExtendReedButton="" ExtendCoilButton="Work" RetractCoilButton="Home" RetractReedButton="" SafeToExtendButton="" SafeToRetractButton="" EnableExtendReedButton="TRUE" EnableExtendCoilButton="TRUE" EnableRetractCoilButton="TRUE" EnableRetractReedButton="TRUE" EnableSafeToExtendButton="TRUE" EnableSafeToRetractButton="TRUE" EnableAllButtons="TRUE" ></Cylinder>
+	<Cylinder CylinderConfig=" Work_Conv_2_pallet_Lift_Cyl" ValveType="2" CylinderName="Work_Conv_2_pallet_Lift_Cyl" SenseExtendEnumName="Work_Conv_2_Pallet_Lift_Cyl_Up" SenseExtendInputAddress="X1_13" SenseRetractEnumName="Work_Conv_2_Pallet_Lift_Cyl_Dn" SenseRetractInputAddress="X1_14" ValveExtendEnumName="Work_Conv_2_pallet_Lift_Cyl_Up" ValveExtendOutputAddress="Y100_06" ValveRetractEnumName="Work_Conv_2_pallet_Lift_Cyl_Dn" ValveRetractOutputAddress="Y100_07" TimeoutSec="3" StableCountTime="5" ValveActionTime="100" LabelSafetoExtend="SafeExtend" LabelSafetoRetract="SafeRetract" ExtendReedButton="" ExtendCoilButton="Work" RetractCoilButton="Home" RetractReedButton="" SafeToExtendButton="" SafeToRetractButton="" EnableExtendReedButton="TRUE" EnableExtendCoilButton="TRUE" EnableRetractCoilButton="TRUE" EnableRetractReedButton="TRUE" EnableSafeToExtendButton="TRUE" EnableSafeToRetractButton="TRUE" EnableAllButtons="TRUE" ></Cylinder>
+
+	<Cylinder CylinderConfig="Work_Conv_2_Stopper_Cyl" ValveType="2" CylinderName="Work_Conv_2_Stopper_Cyl" SenseExtendEnumName="Work_Conv_2_Stopper_Cyl_Up" SenseExtendInputAddress="X1_15" SenseRetractEnumName="Work_Conv_2_Stopper_Cyl_Dn" SenseRetractInputAddress="X1_16" ValveExtendEnumName="Work_Conv_2_Stopper_Cyl_Up" ValveExtendOutputAddress="Y100_08" ValveRetractEnumName="Work_Conv_2_Stopper_Cyl_Dn" ValveRetractOutputAddress="Y100_09" TimeoutSec="3" StableCountTime="5" ValveActionTime="100" LabelSafetoExtend="SafeExtend" LabelSafetoRetract="SafeRetract" ExtendReedButton="" ExtendCoilButton="Work" RetractCoilButton="Home" RetractReedButton="" SafeToExtendButton="" SafeToRetractButton="" EnableExtendReedButton="TRUE" EnableExtendCoilButton="TRUE" EnableRetractCoilButton="TRUE" EnableRetractReedButton="TRUE" EnableSafeToExtendButton="TRUE" EnableSafeToRetractButton="TRUE" EnableAllButtons="TRUE" ></Cylinder>
+
+</Cylinders>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
