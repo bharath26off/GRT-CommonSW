@@ -1,0 +1,3 @@
+[submodule "MasterUIsource"]
+	path = MasterUIsource
+	url = https://github.com/TEALNova/MasterUIsource.git
