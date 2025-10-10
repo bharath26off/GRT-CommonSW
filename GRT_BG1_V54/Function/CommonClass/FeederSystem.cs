@@ -1,6 +1,5 @@
 ﻿using ExceptionLib;
 using GRT_BG1.Function.Calibration;
-using MasterProject.GlobalClass;
 using System;
 using System.Collections.Generic;
 using System.Linq;

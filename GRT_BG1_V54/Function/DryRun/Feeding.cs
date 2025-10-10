@@ -6,7 +6,6 @@ using GRT_BG1.Function.Calibration;
 using GRT_BG1.Function.Classes;
 using GRT_BG1.GlobalVar;
 using Master;
-using MasterProject.GlobalClass;
 using System;
 using System.Collections.Generic;
 using System.Diagnostics;
@@ -30,9 +29,9 @@ namespace GRT_BG1.Function.DryRun
             switch (step)
             {
                 case 1: //move Gantry for pick the form
-                    if (ObjectList.XAxis2.Move_Abs(Convert.ToDouble(Variable.wk1_FeederPos.x), GlobalVariable.g_lstAxisConfig[(int)EAxis.X2].AutoSpeed, GlobalVariable.g_lstAxisConfig[(int)EAxis.X2].Acc, GlobalVariable.g_lstAxisConfig[(int)EAxis.X2].DeAcc, 5000))
+                    if (ObjectList.XAxis2.Move_Abs(Convert.ToDouble(Variable.wk1_FeederPos.x), GlobalVariable.g_lstAxisConfig[(int)EAxis.Servo_X2].AutoSpeed, GlobalVariable.g_lstAxisConfig[(int)EAxis.Servo_X2].Acc, GlobalVariable.g_lstAxisConfig[(int)EAxis.Servo_X2].DeAcc, 5000))
                     {
-                        if (ObjectList.YAxis2.Move_Abs(Convert.ToDouble(Variable.wk1_FeederPos.y), GlobalVariable.g_lstAxisConfig[(int)EAxis.Y2].AutoSpeed, GlobalVariable.g_lstAxisConfig[(int)EAxis.Y2].Acc, GlobalVariable.g_lstAxisConfig[(int)EAxis.Y2].DeAcc, 5000))
+                        if (ObjectList.YAxis2.Move_Abs(Convert.ToDouble(Variable.wk1_FeederPos.y), GlobalVariable.g_lstAxisConfig[(int)EAxis.Servo_Y2].AutoSpeed, GlobalVariable.g_lstAxisConfig[(int)EAxis.Servo_Y2].Acc, GlobalVariable.g_lstAxisConfig[(int)EAxis.Servo_Y2].DeAcc, 5000))
                         {
                             NozzleSystem.MoveUp("Nozzle1");
                             NozzleSystem.MoveDown("Nozzle1");
@@ -50,9 +49,9 @@ namespace GRT_BG1.Function.DryRun
               
                 case 2:
                     ////move to CCD2 for inspection
-                    if (ObjectList.XAxis2.Move_Abs(Convert.ToDouble(Variable.wk1_CCD2Pos.x), GlobalVariable.g_lstAxisConfig[(int)EAxis.X2].AutoSpeed, GlobalVariable.g_lstAxisConfig[(int)EAxis.X2].Acc, GlobalVariable.g_lstAxisConfig[(int)EAxis.X2].DeAcc, 5000))
+                    if (ObjectList.XAxis2.Move_Abs(Convert.ToDouble(Variable.wk1_CCD2Pos.x), GlobalVariable.g_lstAxisConfig[(int)EAxis.Servo_X2].AutoSpeed, GlobalVariable.g_lstAxisConfig[(int)EAxis.Servo_X2].Acc, GlobalVariable.g_lstAxisConfig[(int)EAxis.Servo_X2].DeAcc, 5000))
                     {
-                        if (ObjectList.YAxis2.Move_Abs(Convert.ToDouble(Variable.wk1_CCD2Pos.y), GlobalVariable.g_lstAxisConfig[(int)EAxis.Y2].AutoSpeed, GlobalVariable.g_lstAxisConfig[(int)EAxis.Y2].Acc, GlobalVariable.g_lstAxisConfig[(int)EAxis.Y2].DeAcc, 5000))
+                        if (ObjectList.YAxis2.Move_Abs(Convert.ToDouble(Variable.wk1_CCD2Pos.y), GlobalVariable.g_lstAxisConfig[(int)EAxis.Servo_Y2].AutoSpeed, GlobalVariable.g_lstAxisConfig[(int)EAxis.Servo_Y2].Acc, GlobalVariable.g_lstAxisConfig[(int)EAxis.Servo_Y2].DeAcc, 5000))
                         {
 
                             NozzleSystem.MoveDown("Nozzle1");

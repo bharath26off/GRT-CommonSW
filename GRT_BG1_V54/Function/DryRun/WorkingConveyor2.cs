@@ -6,7 +6,6 @@ using GRT_BG1.Function.Classes;
 using GRT_BG1.Function.Interface;
 using GRT_BG1.GlobalVar;
 using Master;
-using MasterProject.GlobalClass;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -95,9 +94,9 @@ namespace GRT_BG1.Function.DryRun
         {
             // MoveX(PalletArr[row, col].PositionX);
             // MoveY(PalletArr[row, col].PositionY);
-            if (ObjectList.XAxis3.Move_Abs(Convert.ToDouble(Variable.PalletQueue23.Peek().PalletArr[row, col].PositionX), GlobalVariable.g_lstAxisConfig[(int)EAxis.X3].AutoSpeed, GlobalVariable.g_lstAxisConfig[(int)EAxis.X3].Acc, GlobalVariable.g_lstAxisConfig[(int)EAxis.X3].DeAcc, 5000))
+            if (ObjectList.XAxis3.Move_Abs(Convert.ToDouble(Variable.PalletQueue23.Peek().PalletArr[row, col].PositionX), GlobalVariable.g_lstAxisConfig[(int)EAxis.Servo_X3].AutoSpeed, GlobalVariable.g_lstAxisConfig[(int)EAxis.Servo_X3].Acc, GlobalVariable.g_lstAxisConfig[(int)EAxis.Servo_X3].DeAcc, 5000))
             {
-                if (ObjectList.YAxis3.Move_Abs(Convert.ToDouble(Variable.PalletQueue23.Peek().PalletArr[row, col].PositionY), GlobalVariable.g_lstAxisConfig[(int)EAxis.Y3].AutoSpeed, GlobalVariable.g_lstAxisConfig[(int)EAxis.Y3].Acc, GlobalVariable.g_lstAxisConfig[(int)EAxis.Y3].DeAcc, 5000))
+                if (ObjectList.YAxis3.Move_Abs(Convert.ToDouble(Variable.PalletQueue23.Peek().PalletArr[row, col].PositionY), GlobalVariable.g_lstAxisConfig[(int)EAxis.Servo_Y3].AutoSpeed, GlobalVariable.g_lstAxisConfig[(int)EAxis.Servo_Y3].Acc, GlobalVariable.g_lstAxisConfig[(int)EAxis.Servo_Y3].DeAcc, 5000))
                 {
                     //string cameraData = await camera.Trig_Camera();
                     Variable.PalletQueue23.Peek().PalletArr[row, col].SNno = "xyz";//from scanner

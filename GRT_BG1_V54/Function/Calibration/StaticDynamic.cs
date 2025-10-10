@@ -3,7 +3,6 @@ using DynamicCylinders;
 using GRT_BG1.Function.Calibration;
 using GRT_BG1.GlobalVar;
 using Master;
-using MasterProject.GlobalClass;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -123,9 +122,9 @@ namespace GRT_BG1.Function.Calibration
 
                     case 1:
                         // Gantry moves to feeder.
-                        if (ObjectList.XAxis2.Move_Abs(Convert.ToDouble(Variable.wk1_FeederPos.x), GlobalVariable.g_lstAxisConfig[(int)EAxis.X2].AutoSpeed, GlobalVariable.g_lstAxisConfig[(int)EAxis.X2].Acc, GlobalVariable.g_lstAxisConfig[(int)EAxis.X2].DeAcc, 5000))
+                        if (ObjectList.XAxis2.Move_Abs(Convert.ToDouble(Variable.wk1_FeederPos.x), GlobalVariable.g_lstAxisConfig[(int)EAxis.Servo_X2].AutoSpeed, GlobalVariable.g_lstAxisConfig[(int)EAxis.Servo_X2].Acc, GlobalVariable.g_lstAxisConfig[(int)EAxis.Servo_X2].DeAcc, 5000))
                         {
-                            if (ObjectList.YAxis2.Move_Abs(Convert.ToDouble(Variable.wk1_FeederPos.y), GlobalVariable.g_lstAxisConfig[(int)EAxis.Y2].AutoSpeed, GlobalVariable.g_lstAxisConfig[(int)EAxis.Y2].Acc, GlobalVariable.g_lstAxisConfig[(int)EAxis.Y2].DeAcc, 5000))
+                            if (ObjectList.YAxis2.Move_Abs(Convert.ToDouble(Variable.wk1_FeederPos.y), GlobalVariable.g_lstAxisConfig[(int)EAxis.Servo_Y2].AutoSpeed, GlobalVariable.g_lstAxisConfig[(int)EAxis.Servo_Y2].Acc, GlobalVariable.g_lstAxisConfig[(int)EAxis.Servo_Y2].DeAcc, 5000))
                             {
                                 step=2;
                             }
@@ -141,9 +140,9 @@ namespace GRT_BG1.Function.Calibration
 
                     case 3:
                         // Move to CCD2 position.
-                        if (ObjectList.XAxis2.Move_Abs(Convert.ToDouble(Variable.wk1_CCD2Pos.x), GlobalVariable.g_lstAxisConfig[(int)EAxis.X2].AutoSpeed, GlobalVariable.g_lstAxisConfig[(int)EAxis.X2].Acc, GlobalVariable.g_lstAxisConfig[(int)EAxis.X2].DeAcc, 5000))
+                        if (ObjectList.XAxis2.Move_Abs(Convert.ToDouble(Variable.wk1_CCD2Pos.x), GlobalVariable.g_lstAxisConfig[(int)EAxis.Servo_X2].AutoSpeed, GlobalVariable.g_lstAxisConfig[(int)EAxis.Servo_X2].Acc, GlobalVariable.g_lstAxisConfig[(int)EAxis.Servo_X2].DeAcc, 5000))
                         {
-                            if (ObjectList.YAxis2.Move_Abs(Convert.ToDouble(Variable.wk1_CCD2Pos.y), GlobalVariable.g_lstAxisConfig[(int)EAxis.Y2].AutoSpeed, GlobalVariable.g_lstAxisConfig[(int)EAxis.Y2].Acc, GlobalVariable.g_lstAxisConfig[(int)EAxis.Y2].DeAcc, 5000))
+                            if (ObjectList.YAxis2.Move_Abs(Convert.ToDouble(Variable.wk1_CCD2Pos.y), GlobalVariable.g_lstAxisConfig[(int)EAxis.Servo_Y2].AutoSpeed, GlobalVariable.g_lstAxisConfig[(int)EAxis.Servo_Y2].Acc, GlobalVariable.g_lstAxisConfig[(int)EAxis.Servo_Y2].DeAcc, 5000))
                             {
                                 step = 4;
                             }
@@ -167,9 +166,9 @@ namespace GRT_BG1.Function.Calibration
 
                     case 6:
                         // Start dynamic trigger loop
-                        if (ObjectList.XAxis2.Move_Abs(Convert.ToDouble(Variable.wk1_CCD2Pos.x), GlobalVariable.g_lstAxisConfig[(int)EAxis.X2].AutoSpeed, GlobalVariable.g_lstAxisConfig[(int)EAxis.X2].Acc, GlobalVariable.g_lstAxisConfig[(int)EAxis.X2].DeAcc, 5000))
+                        if (ObjectList.XAxis2.Move_Abs(Convert.ToDouble(Variable.wk1_CCD2Pos.x), GlobalVariable.g_lstAxisConfig[(int)EAxis.Servo_X2].AutoSpeed, GlobalVariable.g_lstAxisConfig[(int)EAxis.Servo_X2].Acc, GlobalVariable.g_lstAxisConfig[(int)EAxis.Servo_X2].DeAcc, 5000))
                         {
-                            if (ObjectList.YAxis2.Move_Abs(Convert.ToDouble(Variable.wk1_CCD2Pos.y), GlobalVariable.g_lstAxisConfig[(int)EAxis.Y2].AutoSpeed, GlobalVariable.g_lstAxisConfig[(int)EAxis.Y2].Acc, GlobalVariable.g_lstAxisConfig[(int)EAxis.Y2].DeAcc, 5000))
+                            if (ObjectList.YAxis2.Move_Abs(Convert.ToDouble(Variable.wk1_CCD2Pos.y), GlobalVariable.g_lstAxisConfig[(int)EAxis.Servo_Y2].AutoSpeed, GlobalVariable.g_lstAxisConfig[(int)EAxis.Servo_Y2].Acc, GlobalVariable.g_lstAxisConfig[(int)EAxis.Servo_Y2].DeAcc, 5000))
                             {
                                 step = 7;
                             }
@@ -245,7 +244,7 @@ namespace GRT_BG1.Function.Calibration
 
                     case 7:
                         // Move gantry in Y direction.
-                        if (ObjectList.YAxis3.Move_Abs(Convert.ToDouble(Variable.PalletQueue23.Peek().PalletArr[5, 6].PositionY), GlobalVariable.g_lstAxisConfig[(int)EAxis.Y3].AutoSpeed, GlobalVariable.g_lstAxisConfig[(int)EAxis.Y3].Acc, GlobalVariable.g_lstAxisConfig[(int)EAxis.Y3].DeAcc, 5000))
+                        if (ObjectList.YAxis3.Move_Abs(Convert.ToDouble(Variable.PalletQueue23.Peek().PalletArr[5, 6].PositionY), GlobalVariable.g_lstAxisConfig[(int)EAxis.Servo_Y3].AutoSpeed, GlobalVariable.g_lstAxisConfig[(int)EAxis.Servo_Y3].Acc, GlobalVariable.g_lstAxisConfig[(int)EAxis.Servo_Y3].DeAcc, 5000))
 
                             step++;
                         break;

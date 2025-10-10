@@ -13,7 +13,6 @@ using GRT_BG1.Function;
 using GRT_BG1.Function.Classes;
 using Advantech;
 using GRT_BG1.Function.Calibration;
-using MasterProject.GlobalClass;
 
 namespace GRT_BG1.Function
 {
@@ -168,9 +167,9 @@ namespace GRT_BG1.Function
         {
 
 
-            if (ObjectList.XAxis1.Move_Abs(Convert.ToDouble(PalletData.PalletArr[row, col].PositionX), GlobalVariable.g_lstAxisConfig[(int)EAxis.X1].AutoSpeed, GlobalVariable.g_lstAxisConfig[(int)EAxis.X1].Acc, GlobalVariable.g_lstAxisConfig[(int)EAxis.X1].DeAcc, 5000))
+            if (ObjectList.XAxis1.Move_Abs(Convert.ToDouble(PalletData.PalletArr[row, col].PositionX), GlobalVariable.g_lstAxisConfig[(int)EAxis.Servo_X1].AutoSpeed, GlobalVariable.g_lstAxisConfig[(int)EAxis.Servo_X1].Acc, GlobalVariable.g_lstAxisConfig[(int)EAxis.Servo_X1].DeAcc, 5000))
             {
-                if (ObjectList.YAxis1.Move_Abs(Convert.ToDouble(PalletData.PalletArr[row, col].PositionY), GlobalVariable.g_lstAxisConfig[(int)EAxis.Y1].AutoSpeed, GlobalVariable.g_lstAxisConfig[(int)EAxis.Y1].Acc, GlobalVariable.g_lstAxisConfig[(int)EAxis.Y1].DeAcc, 5000))
+                if (ObjectList.YAxis1.Move_Abs(Convert.ToDouble(PalletData.PalletArr[row, col].PositionY), GlobalVariable.g_lstAxisConfig[(int)EAxis.Servo_Y1].AutoSpeed, GlobalVariable.g_lstAxisConfig[(int)EAxis.Servo_Y1].Acc, GlobalVariable.g_lstAxisConfig[(int)EAxis.Servo_Y1].DeAcc, 5000))
                 {
                     string CameraData = await scnr.Trig_Scanner();
                     PalletData.PalletArr[row, col].ScannerData = CameraData;

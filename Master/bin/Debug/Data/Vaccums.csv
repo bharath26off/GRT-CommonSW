@@ -1,3 +1,0 @@
-VaccumConfig,VaccumName,VaccumFeedbackEnumName,VaccumFeedbackInputAddress,VaccumOnOffEnumName,VaccumOnOffOutputAddress,BlowOnOffEnumName,BlowOnOffOutputAddress,TimeoutSec,StableCountTime,VaccumButton,BlowButton,OffButton,EnableVaccumButton,EnableBlowButton,EnableOffButton,EnableAllButtons
-Vaccum1,Feeder_Bed_Vacuum_1,Feed_Bed_Vacuum_1_Fb,X2_07,Feed_Bed_Vacuum_1_On,Y101_0,Feed_Bed_Vacuum_1_Break,Y101_1,3,5,Vaccum,Blow,Off,TRUE,TRUE,TRUE,TRUE
-Vaccum2,Feeder_Bed_Vacuum_2 ,Feed_Bed_Vacuum_2_Fb,X2_06,Feed_Bed_Vacuum_2_On,Y101_2,Feed_Bed_Vacuum_2_Break,Y101_3,3,5,Vaccum,Blow,Off,TRUE,TRUE,TRUE,TRUE

@@ -46,8 +46,9 @@
     <Reference Include="HelperClassLib">
       <HintPath>bin\HelperClassLib.dll</HintPath>
     </Reference>
-    <Reference Include="Master">
-      <HintPath>..\Master\bin\Debug\Master.exe</HintPath>
+    <Reference Include="Master, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\MasterUIsource\Master\bin\Debug\Master.exe</HintPath>
     </Reference>
     <Reference Include="ServoFunctions">
       <HintPath>bin\ServoFunctions.dll</HintPath>

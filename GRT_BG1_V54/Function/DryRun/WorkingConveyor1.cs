@@ -6,7 +6,6 @@ using GRT_BG1.Function.Classes;
 using GRT_BG1.Function.Interface;
 using GRT_BG1.GlobalVar;
 using Master;
-using MasterProject.GlobalClass;
 using System;
 using System.Collections;
 using System.Linq;
@@ -122,11 +121,11 @@ namespace GRT_BG1.Function.DryRun
         {
             var pallet = GetCurrentPallet();
             if (pallet == null) return;
-            if (ObjectList.XAxis2.Move_Abs(Convert.ToDouble(pallet.PalletArr[row, col].PositionX), GlobalVariable.g_lstAxisConfig[(int)EAxis.X2].AutoSpeed, GlobalVariable.g_lstAxisConfig[(int)EAxis.X2].Acc, GlobalVariable.g_lstAxisConfig[(int)EAxis.X2].DeAcc, 5000))
+            if (ObjectList.XAxis2.Move_Abs(Convert.ToDouble(pallet.PalletArr[row, col].PositionX), GlobalVariable.g_lstAxisConfig[(int)EAxis.Servo_X2].AutoSpeed, GlobalVariable.g_lstAxisConfig[(int)EAxis.Servo_X2].Acc, GlobalVariable.g_lstAxisConfig[(int)EAxis.Servo_X2].DeAcc, 5000))
             {
-                if (ObjectList.YAxis2.Move_Abs(Convert.ToDouble(pallet.PalletArr[row, col].PositionY), GlobalVariable.g_lstAxisConfig[(int)EAxis.Y2].AutoSpeed, GlobalVariable.g_lstAxisConfig[(int)EAxis.Y2].Acc, GlobalVariable.g_lstAxisConfig[(int)EAxis.Y2].DeAcc, 5000))
+                if (ObjectList.YAxis2.Move_Abs(Convert.ToDouble(pallet.PalletArr[row, col].PositionY), GlobalVariable.g_lstAxisConfig[(int)EAxis.Servo_Y2].AutoSpeed, GlobalVariable.g_lstAxisConfig[(int)EAxis.Servo_Y2].Acc, GlobalVariable.g_lstAxisConfig[(int)EAxis.Servo_Y2].DeAcc, 5000))
                 {
-                    string cameraData = await camera.Trig_Camera(ObjectList.Vision3, "xyz");
+                    string cameraData = await camera.Trig_Camera(ObjectList.CCD3, "xyz");
                     pallet.PalletArr[row, col].cameraData = cameraData;
                     pallet.PalletArr[row, col].OkNok = cameraData;
                     pallet.Datas.Add(pallet.PalletArr[row, col].OkNok, pallet.PalletArr[row, col]);

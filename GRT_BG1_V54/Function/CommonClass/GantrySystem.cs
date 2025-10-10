@@ -1,7 +1,7 @@
 ﻿using Advantech;
 using GRT_BG1.Data;
 using GRT_BG1.GlobalVar;
-using MasterProject.GlobalClass;
+using Master;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -68,9 +68,9 @@ namespace GRT_BG1.Function.Calibration
         public static async Task GantryMovement(int row, int col)
         {
 
-            if (ObjectList.YAxis1.Move_Abs(Convert.ToDouble(PalletData.PalletArr[row, col].PositionX), GlobalVariable.g_lstAxisConfig[(int)EAxis.Y1].AutoSpeed, GlobalVariable.g_lstAxisConfig[(int)EAxis.X1].Acc, GlobalVariable.g_lstAxisConfig[(int)EAxis.X1].DeAcc, 5000))
+            if (ObjectList.YAxis1.Move_Abs(Convert.ToDouble(PalletData.PalletArr[row, col].PositionY), GlobalVariable.g_lstAxisConfig[(int)EAxis.Servo_Y1].AutoSpeed, GlobalVariable.g_lstAxisConfig[(int)EAxis.Servo_Y1].Acc, GlobalVariable.g_lstAxisConfig[(int)EAxis.Servo_Y1].DeAcc, 5000))
             {
-                if (ObjectList.XAxis1.Move_Abs(Convert.ToDouble(PalletData.PalletArr[row, col].PositionY), GlobalVariable.g_lstAxisConfig[(int)EAxis.X1].AutoSpeed, GlobalVariable.g_lstAxisConfig[(int)EAxis.Y1].Acc, GlobalVariable.g_lstAxisConfig[(int)EAxis.Y1].DeAcc, 5000))
+                if (ObjectList.XAxis1.Move_Abs(Convert.ToDouble(PalletData.PalletArr[row, col].PositionX), GlobalVariable.g_lstAxisConfig[(int)EAxis.Servo_X1].AutoSpeed, GlobalVariable.g_lstAxisConfig[(int)EAxis.Servo_X1].Acc, GlobalVariable.g_lstAxisConfig[(int)EAxis.Servo_X1].DeAcc, 5000))
                 {
 
                 }
@@ -81,9 +81,9 @@ namespace GRT_BG1.Function.Calibration
 
         public async static Task wk1_home()
         {
-            if (ObjectList.YAxis1.Move_Abs(Convert.ToDouble(Variable.wk1_home.y), GlobalVariable.g_lstAxisConfig[(int)EAxis.Y1].AutoSpeed, GlobalVariable.g_lstAxisConfig[(int)EAxis.X1].Acc, GlobalVariable.g_lstAxisConfig[(int)EAxis.X1].DeAcc, 5000))
+            if (ObjectList.YAxis1.Move_Abs(Convert.ToDouble(Variable.wk1_home.y), GlobalVariable.g_lstAxisConfig[(int)EAxis.Servo_Y1].AutoSpeed, GlobalVariable.g_lstAxisConfig[(int)EAxis.Servo_Y1].Acc, GlobalVariable.g_lstAxisConfig[(int)EAxis.Servo_Y1].DeAcc, 5000))
             {
-                if (ObjectList.XAxis1.Move_Abs(Convert.ToDouble(Variable.wk1_home.x), GlobalVariable.g_lstAxisConfig[(int)EAxis.X1].AutoSpeed, GlobalVariable.g_lstAxisConfig[(int)EAxis.Y1].Acc, GlobalVariable.g_lstAxisConfig[(int)EAxis.Y1].DeAcc, 5000))
+                if (ObjectList.XAxis1.Move_Abs(Convert.ToDouble(Variable.wk1_home.x), GlobalVariable.g_lstAxisConfig[(int)EAxis.Servo_X1].AutoSpeed, GlobalVariable.g_lstAxisConfig[(int)EAxis.Servo_X1].Acc, GlobalVariable.g_lstAxisConfig[(int)EAxis.Servo_X1].DeAcc, 5000))
                 {
                     await Task.Delay(1000);
                 }
@@ -93,9 +93,9 @@ namespace GRT_BG1.Function.Calibration
         }
         public async static Task wk2_home()
         {
-            if (ObjectList.YAxis1.Move_Abs(Convert.ToDouble(Variable.wk2_home.y), GlobalVariable.g_lstAxisConfig[(int)EAxis.Y3].AutoSpeed, GlobalVariable.g_lstAxisConfig[(int)EAxis.Y3].Acc, GlobalVariable.g_lstAxisConfig[(int)EAxis.Y3].DeAcc, 5000))
+            if (ObjectList.YAxis1.Move_Abs(Convert.ToDouble(Variable.wk2_home.y), GlobalVariable.g_lstAxisConfig[(int)EAxis.Servo_Y3].AutoSpeed, GlobalVariable.g_lstAxisConfig[(int)EAxis.Servo_Y3].Acc, GlobalVariable.g_lstAxisConfig[(int)EAxis.Servo_Y3].DeAcc, 5000))
             {
-                if (ObjectList.XAxis1.Move_Abs(Convert.ToDouble(Variable.wk2_home.x), GlobalVariable.g_lstAxisConfig[(int)EAxis.X3].AutoSpeed, GlobalVariable.g_lstAxisConfig[(int)EAxis.X3].Acc, GlobalVariable.g_lstAxisConfig[(int)EAxis.X3].DeAcc, 5000))
+                if (ObjectList.XAxis1.Move_Abs(Convert.ToDouble(Variable.wk2_home.x), GlobalVariable.g_lstAxisConfig[(int)EAxis.Servo_X3].AutoSpeed, GlobalVariable.g_lstAxisConfig[(int)EAxis.Servo_X3].Acc, GlobalVariable.g_lstAxisConfig[(int)EAxis.Servo_X3].DeAcc, 5000))
                 {
                     await Task.Delay(1000);
                 }
@@ -106,9 +106,9 @@ namespace GRT_BG1.Function.Calibration
 
         public async static Task scanCnv_home()
         {
-            if (ObjectList.XAxis1.Move_Abs(Convert.ToDouble(Variable.scan_home.x), GlobalVariable.g_lstAxisConfig[(int)EAxis.X1].AutoSpeed, GlobalVariable.g_lstAxisConfig[(int)EAxis.X1].Acc, GlobalVariable.g_lstAxisConfig[(int)EAxis.X1].DeAcc, 5000))
+            if (ObjectList.YAxis1.Move_Abs(Convert.ToDouble(Variable.scan_home.y), GlobalVariable.g_lstAxisConfig[(int)EAxis.Servo_Y1].AutoSpeed, GlobalVariable.g_lstAxisConfig[(int)EAxis.Servo_Y1].Acc, GlobalVariable.g_lstAxisConfig[(int)EAxis.Servo_Y1].DeAcc, 5000))
             {
-                if (ObjectList.XAxis1.Move_Abs(Convert.ToDouble(Variable.scan_home.y), GlobalVariable.g_lstAxisConfig[(int)EAxis.X1].AutoSpeed, GlobalVariable.g_lstAxisConfig[(int)EAxis.X1].Acc, GlobalVariable.g_lstAxisConfig[(int)EAxis.X1].DeAcc, 5000))
+                if (ObjectList.XAxis1.Move_Abs(Convert.ToDouble(Variable.scan_home.x), GlobalVariable.g_lstAxisConfig[(int)EAxis.Servo_Y1].AutoSpeed, GlobalVariable.g_lstAxisConfig[(int)EAxis.Servo_Y1].Acc, GlobalVariable.g_lstAxisConfig[(int)EAxis.Servo_Y1].DeAcc, 5000))
                 {
                     await Task.Delay(1000);
                    

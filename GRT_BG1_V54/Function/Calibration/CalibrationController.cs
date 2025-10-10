@@ -3,7 +3,6 @@ using DynamicCylinders;
 using GRT_BG1.Data;
 using GRT_BG1.GlobalVar;
 using Master;
-using MasterProject.GlobalClass;
 using System;
 using System.Collections.Generic;
 using System.Linq;

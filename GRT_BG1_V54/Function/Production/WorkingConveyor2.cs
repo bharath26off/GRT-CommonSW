@@ -5,7 +5,6 @@ using GRT_BG1.Function.Calibration;
 using GRT_BG1.Function.Interface;
 using GRT_BG1.GlobalVar;
 using Master;
-using MasterProject.GlobalClass;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -88,12 +87,12 @@ namespace GRT_BG1.Function
 
         public async Task GantryMovement(int row, int col)
         {
-            if (ObjectList.XAxis1.Move_Abs(Convert.ToDouble(Variable.PalletQueue23.Peek().PalletArr[row, col].PositionX), GlobalVariable.g_lstAxisConfig[(int)EAxis.X2].AutoSpeed, GlobalVariable.g_lstAxisConfig[(int)EAxis.X2].Acc, GlobalVariable.g_lstAxisConfig[(int)EAxis.X2].DeAcc, 5000))
+            if (ObjectList.XAxis1.Move_Abs(Convert.ToDouble(Variable.PalletQueue23.Peek().PalletArr[row, col].PositionX), GlobalVariable.g_lstAxisConfig[(int)EAxis.Servo_X2].AutoSpeed, GlobalVariable.g_lstAxisConfig[(int)EAxis.Servo_X2].Acc, GlobalVariable.g_lstAxisConfig[(int)EAxis.Servo_X2].DeAcc, 5000))
             {
-                if (ObjectList.YAxis1.Move_Abs(Convert.ToDouble(Variable.PalletQueue23.Peek().PalletArr[row, col].PositionY), GlobalVariable.g_lstAxisConfig[(int)EAxis.Y2].AutoSpeed, GlobalVariable.g_lstAxisConfig[(int)EAxis.Y2].Acc, GlobalVariable.g_lstAxisConfig[(int)EAxis.Y2].DeAcc, 5000))
+                if (ObjectList.YAxis1.Move_Abs(Convert.ToDouble(Variable.PalletQueue23.Peek().PalletArr[row, col].PositionY), GlobalVariable.g_lstAxisConfig[(int)EAxis.Servo_Y2].AutoSpeed, GlobalVariable.g_lstAxisConfig[(int)EAxis.Servo_Y2].Acc, GlobalVariable.g_lstAxisConfig[(int)EAxis.Servo_Y2].DeAcc, 5000))
                 {
                     string cmd = ""; //("T2C,S,1,1," + Final_cavt_num.ToString() + "," + dtm + ",1"
-                    string cameraData = await camera.Trig_Camera(ObjectList.Vision4, cmd);
+                    string cameraData = await camera.Trig_Camera(ObjectList.CCD4, cmd);
                     Variable.PalletQueue23.Peek().PalletArr[row, col].SNno = "xyz";//from scanner
                                                                                    //perform qualification
                     Variable.PalletQueue23.Peek().PalletArr[row, col].Qualify = true;

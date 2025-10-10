@@ -7,7 +7,6 @@ using GRT_BG1.Function.Classes;
 using GRT_BG1.Function.Interface;
 using GRT_BG1.GlobalVar;
 using Master;
-using MasterProject.GlobalClass;
 using System;
 using System.Collections;
 using System.Linq;
@@ -145,16 +144,16 @@ namespace GRT_BG1.Function
         {
             var pallet = GetCurrentPallet();
             if (pallet == null) return;
-            if (ObjectList.XAxis1.Move_Abs(Convert.ToDouble(pallet.PalletArr[row, col].PositionX), GlobalVariable.g_lstAxisConfig[(int)EAxis.X2].AutoSpeed, GlobalVariable.g_lstAxisConfig[(int)EAxis.X2].Acc, GlobalVariable.g_lstAxisConfig[(int)EAxis.X2].DeAcc, 5000))
+            if (ObjectList.XAxis1.Move_Abs(Convert.ToDouble(pallet.PalletArr[row, col].PositionX), GlobalVariable.g_lstAxisConfig[(int)EAxis.Servo_X2].AutoSpeed, GlobalVariable.g_lstAxisConfig[(int)EAxis.Servo_X2].Acc, GlobalVariable.g_lstAxisConfig[(int)EAxis.Servo_X2].DeAcc, 5000))
             {
-                if (ObjectList.YAxis1.Move_Abs(Convert.ToDouble(pallet.PalletArr[row, col].PositionY), GlobalVariable.g_lstAxisConfig[(int)EAxis.Y2].AutoSpeed, GlobalVariable.g_lstAxisConfig[(int)EAxis.Y2].Acc, GlobalVariable.g_lstAxisConfig[(int)EAxis.Y2].DeAcc, 5000))
+                if (ObjectList.YAxis1.Move_Abs(Convert.ToDouble(pallet.PalletArr[row, col].PositionY), GlobalVariable.g_lstAxisConfig[(int)EAxis.Servo_Y2].AutoSpeed, GlobalVariable.g_lstAxisConfig[(int)EAxis.Servo_Y2].Acc, GlobalVariable.g_lstAxisConfig[(int)EAxis.Servo_Y2].DeAcc, 5000))
                 {
                     string dtm = DateTime.Now.ToString("dd_MM_yy_HH_mm_ss");
                     //double Xpos = Motion.GetActPos(GlobClass.Axis.X2);
                     //double Ypos = Motion.GetActPos(GlobClass.Axis.Y2);
                     //double A1 = Motion.GetActPos(GlobClass.Axis.R1);
                     string cmd = "T1,S,1,1,1," + pallet.PalletArr[row, col].cavityNo.ToString() + "," + dtm + "," + pallet.PalletArr[row, col].PositionX.ToString() + "," + pallet.PalletArr[row, col].PositionY.ToString() + "," + pallet.PalletArr[row, col].PositionR.ToString() + ",";// + Photo_pos_fly_trig_X[Assm_Cavity_Number - 1] + "," + Photo_pos_fly_trig_Y[Assm_Cavity_Number - 1] + ",0,0,0");//T1 cmnd to be edit
-                    string cameraData = await camera.Trig_Camera(ObjectList.Vision3,cmd);
+                    string cameraData = await camera.Trig_Camera(ObjectList.CCD3,cmd);
                     pallet.PalletArr[row, col].cameraData = cameraData;
                     pallet.PalletArr[row, col].OkNok = cameraData;
                     pallet.Datas.Add(pallet.PalletArr[row, col].OkNok, pallet.PalletArr[row, col]);
