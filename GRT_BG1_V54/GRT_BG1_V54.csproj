@@ -46,10 +46,6 @@
     <Reference Include="HelperClassLib">
       <HintPath>bin\HelperClassLib.dll</HintPath>
     </Reference>
-    <Reference Include="Master, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\MasterUIsource\Master\bin\Debug\Master.exe</HintPath>
-    </Reference>
     <Reference Include="ServoFunctions">
       <HintPath>bin\ServoFunctions.dll</HintPath>
     </Reference>
@@ -75,7 +71,7 @@
     <Compile Include="Function\CommonClass\ConveyorSystem.cs" />
     <Compile Include="Function\CommonClass\FeederSystem.cs" />
     <Compile Include="Function\CommonClass\GantrySystem.cs" />
-    <Compile Include="Function\CommonClass\Homing.cs" />
+    <Compile Include="Function\CommonClass\Homingcls.cs" />
     <Compile Include="Function\CommonClass\IOSystem.cs" />
     <Compile Include="Function\CommonClass\NozzleSystem.cs" />
     <Compile Include="Function\CommonClass\ScannerSystem.cs" />
@@ -97,8 +93,6 @@
     <Compile Include="Function\Production\Pasting.cs" />
     <Compile Include="Function\Production\WorkingConveyor1.cs" />
     <Compile Include="Function\Production\WorkingConveyor2.cs" />
-    <Compile Include="Function\StartApp\ParallelBase.cs" />
-    <Compile Include="Function\StartApp\Process.cs" />
     <Compile Include="GlobalVar\Variable.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
