@@ -80,3 +80,11 @@ E:\GRT_BG1_V54\GRT_BG1_V54\bin\Debug\ServoFunctions.dll.config
 E:\GRT_BG1_V54\GRT_BG1_V54\obj\Debug\GRT_BG1_.8344ADA7.Up2Date
 E:\GRT_BG1_V54\GRT_BG1_V54\obj\Debug\GRT_BG1_V54.dll
 E:\GRT_BG1_V54\GRT_BG1_V54\obj\Debug\GRT_BG1_V54.pdb
+E:\GRT_BG1_V54\GRT_BG1_V54\bin\Debug\Master.exe
+E:\GRT_BG1_V54\GRT_BG1_V54\bin\Debug\IO_Stepper.dll
+E:\GRT_BG1_V54\GRT_BG1_V54\bin\Debug\Transform_Language_Tool.dll
+E:\GRT_BG1_V54\GRT_BG1_V54\bin\Debug\HCCard.dll
+E:\GRT_BG1_V54\GRT_BG1_V54\bin\Debug\McAutoSeq.dll
+E:\GRT_BG1_V54\GRT_BG1_V54\bin\Debug\Master.pdb
+E:\GRT_BG1_V54\GRT_BG1_V54\bin\Debug\Master.exe.config
+E:\GRT_BG1_V54\GRT_BG1_V54\bin\Debug\McAutoSeq.pdb
