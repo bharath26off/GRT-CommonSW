@@ -32,27 +32,25 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="AdvMotAPI">
-      <HintPath>..\MasterUIsource\Master\bin\Debug\AdvMotAPI.dll</HintPath>
+      <HintPath>bin\AdvMotAPI.dll</HintPath>
     </Reference>
     <Reference Include="CardDLL">
-      <HintPath>..\MasterUIsource\Master\bin\Debug\CardDLL.dll</HintPath>
+      <HintPath>bin\CardDLL.dll</HintPath>
     </Reference>
     <Reference Include="CylinderHelperLib">
-      <HintPath>..\MasterUIsource\Master\bin\Debug\CylinderHelperLib.dll</HintPath>
+      <HintPath>bin\CylinderHelperLib.dll</HintPath>
     </Reference>
     <Reference Include="ExceptionLib">
-      <HintPath>..\MasterUIsource\Master\bin\Debug\ExceptionLib.dll</HintPath>
+      <HintPath>bin\ExceptionLib.dll</HintPath>
     </Reference>
     <Reference Include="HelperClassLib">
-      <HintPath>..\MasterUIsource\Master\bin\Debug\HelperClassLib.dll</HintPath>
+      <HintPath>bin\HelperClassLib.dll</HintPath>
     </Reference>
-    <Reference Include="IO_Stepper, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\MasterUIsource\Master\bin\Debug\IO_Stepper.dll</HintPath>
-    </Reference>
-    <Reference Include="Master, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
+    <Reference Include="Master">
       <HintPath>..\MasterUIsource\Master\bin\Debug\Master.exe</HintPath>
+    </Reference>
+    <Reference Include="ServoFunctions">
+      <HintPath>bin\ServoFunctions.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -64,10 +62,43 @@
     <Reference Include="System.Xml" />
     <Reference Include="VaccumHelperLib, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\MasterUIsource\Master\bin\Debug\VaccumHelperLib.dll</HintPath>
+      <HintPath>bin\Debug\VaccumHelperLib.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Data\CCD2Data.cs" />
+    <Compile Include="Data\PalletData.cs" />
+    <Compile Include="Function\Calibration\CalibrationController.cs" />
+    <Compile Include="Function\Calibration\StaticDynamic.cs" />
+    <Compile Include="Function\CommonClass\AxisManager.cs" />
+    <Compile Include="Function\CommonClass\ConveyorSystem.cs" />
+    <Compile Include="Function\CommonClass\FeederSystem.cs" />
+    <Compile Include="Function\CommonClass\GantrySystem.cs" />
+    <Compile Include="Function\CommonClass\Homingcls.cs" />
+    <Compile Include="Function\CommonClass\IOSystem.cs" />
+    <Compile Include="Function\CommonClass\NozzleSystem.cs" />
+    <Compile Include="Function\CommonClass\ScannerSystem.cs" />
+    <Compile Include="Function\CommonClass\StepperSystem.cs" />
+    <Compile Include="Function\CommonClass\VisionSystem.cs" />
+    <Compile Include="Function\DryRun\Feeding.cs" />
+    <Compile Include="Function\DryRun\LoadingConveyor.cs" />
+    <Compile Include="Function\DryRun\Pasting.cs" />
+    <Compile Include="Function\DryRun\WorkingConveyor1.cs" />
+    <Compile Include="Function\DryRun\WorkingConveyor2.cs" />
+    <Compile Include="Function\Interface\IAxis.cs" />
+    <Compile Include="Function\Interface\ICamera.cs" />
+    <Compile Include="Function\Interface\IConveyor.cs" />
+    <Compile Include="Function\Interface\IlodingConveyor.cs" />
+    <Compile Include="Function\Interface\IScanner.cs" />
+    <Compile Include="Function\Interface\IWorkingConveyor.cs" />
+    <Compile Include="Function\Interface\IWorkingConveyor2.cs" />
+    <Compile Include="Function\Production\Feeding.cs" />
+    <Compile Include="Function\Production\LoadingConveyor.cs" />
+    <Compile Include="Function\Production\Pasting.cs" />
+    <Compile Include="Function\Production\WorkingConveyor1.cs" />
+    <Compile Include="Function\Production\WorkingConveyor2.cs" />
+    <Compile Include="Function\StartApp\ParallelBase.cs" />
+    <Compile Include="GlobalVar\Variable.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
