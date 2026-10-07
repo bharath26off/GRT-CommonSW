@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TCP_IP_Details>
+  <Server Name="CCD4" IP="127.0.0.1" Port="8502" />
+  <Server Name="CCD3" IP="127.0.0.1" Port="8501" />
+  <Server Name="CCD2" IP="127.0.0.1" Port="8000" />
+  <Server Name="CCD1" IP="127.0.0.1" Port="8500" />
+  <Server Name="Barcode_Scanner" IP="192.168.66.130" Port="23" />
+  <Server Name="SFC_PDCA" IP="169.254.1.10" Port="1111" />
+</TCP_IP_Details>

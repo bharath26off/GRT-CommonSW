@@ -1,0 +1,6 @@
+Name,LSL,USL
+Left_Gap_X (mm),0.3,0.7
+Bottom_Gap_Y (mm),0.3,0.7
+Angle (deg),-1,1
+Press_Force (kg),1.8,2.2
+Press_Time,0.5,0.5

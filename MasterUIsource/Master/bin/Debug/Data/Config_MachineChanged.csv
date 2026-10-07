@@ -1,0 +1,179 @@
+Sno,Content,Card No,Index,ID,Name,IO Name
+0,Input,0,-1,0,   Spare_X0_00 ,X0-00
+1,Input,0,-1,1,   Main_Air_Pressure_Fb ,X0-01
+2,Input,0,-1,2,   E_Stop_Button_Sfty_Fb ,X0-02
+3,Input,0,-1,3,   Spare_X0_03 ,X0-03
+4,Input,0,-1,4,   Door_Switch_Sfty_Fb ,X0-04
+5,Input,0,-1,5,   Str_PB ,X0-05
+6,Input,0,-1,6,   Stop_PB ,X0-06
+7,Input,0,-1,7,   Reset_PB ,X0-07
+8,Input,0,-1,8,   Scan_Conv_Pallet_Inplace_Sen ,X0-08
+9,Input,0,-1,9,   Scan_Conv_Pallet_Exit_Sen ,X0-09
+10,Input,0,-1,10,   Scan_Conv_Stopper_Cyl_Up ,X0-10
+11,Input,0,-1,11,   Scan_Conv_Stopper_Cyl_Dn ,X0-11
+12,Input,0,-1,12,   Spare_X0_12 ,X0-12
+13,Input,0,-1,13,   Spare_X0_13 ,X0-13
+14,Input,0,-1,14,   Rej_Bin_Inplace_Sen ,X0-14
+15,Input,0,-1,15,   Rej_Bin_High_Level_Sen ,X0-15
+16,Input,0,-1,16,   Feed_Bed_Vacuum_1_Fb ,X1-00
+17,Input,0,-1,17,   Feed_Bed_Vacuum_2_Fb ,X1-01
+18,Input,0,-1,18,   Work_Conv_1_Pallet_Entry_Sen ,X1-02
+19,Input,0,-1,19,   Work_Conv_1_Pallet_Inplace_Sen ,X1-03
+20,Input,0,-1,20,   Work_Conv_1_Pallet_Lift_Cyl_Up ,X1-04
+21,Input,0,-1,21,   Work_Conv_1_Pallet_Lift_Cyl_Dn ,X1-05
+22,Input,0,-1,22,   Work_Conv_1_Stopper_Cyl_Up ,X1-06
+23,Input,0,-1,23,   Work_Conv_1_Stopper_Cyl_Dn ,X1-07
+24,Input,0,-1,24,   Work_Conv_1_Pallet_Exit_Sen ,X1-08
+25,Input,0,-1,25,   Spare_X1_09 ,X1-09
+26,Input,0,-1,26,   Spare_X1_10 ,X1-10
+27,Input,0,-1,27,   Spare_X1_11 ,X1-11
+28,Input,0,-1,28,   Spare_X1_12 ,X1-12
+29,Input,0,-1,29,   Spare_X1_13 ,X1-13
+30,Input,0,-1,30,   Spare_X1_14 ,X1-14
+31,Input,0,-1,31,   Spare_X1_15 ,X1-15
+32,Input,0,-1,32,   Spare_X2_00 ,X2-00
+33,Input,0,-1,33,   Spare_X2_01 ,X2-01
+34,Input,0,-1,34,   Spare_X2_02 ,X2-02
+35,Input,0,-1,35,   Spare_X2_03 ,X2-03
+36,Input,0,-1,36,   Previous_M_C_Ready_To_Send_Pallet ,X2-04
+37,Input,0,-1,37,   GBP_Ready_To_Receive_Pallet ,X2-05
+38,Input,0,-1,38,   Spare_X2_06 ,X2-06
+39,Input,0,-1,39,   Spare_X2_07 ,X2-07
+40,Input,0,-1,40,   Spare_X2_08 ,X2-08
+41,Input,0,-1,41,   Feed_is_ready ,X2-09
+42,Input,0,-1,42,   Feed_In_Alm ,X2-10
+43,Input,0,-1,43,   Feed_knife_edge_Is_In_Places ,X2-11
+44,Input,0,-1,44,   Feed_knife_edge_Back_In_Places ,X2-12
+45,Input,0,-1,45,   Spare_X2_13 ,X2-13
+46,Input,0,-1,46,   Pick_Place_Z1_Axis_Vaccuum_Fb ,X2-14
+47,Input,0,-1,47,   Pick_Place_Z2_Axis_Vaccuum_Fb ,X2-15
+48,Input,0,-1,48,   Work_Conv_2_Pallet_Entry_Sen ,X3-00
+49,Input,0,-1,49,   Work_Conv_2_Pallet_Inplace_Sen ,X3-01
+50,Input,0,-1,50,   Work_Conv_2_Pallet_Lift_Cyl_Up ,X3-02
+51,Input,0,-1,51,   Work_Conv_2_Pallet_Lift_Cyl_Dn ,X3-03
+52,Input,0,-1,52,   Work_Conv_2_Stopper_Cyl_Up ,X3-04
+53,Input,0,-1,53,   Work_Conv_2_Stopper_Cyl_Dn ,X3-05
+54,Input,0,-1,54,   Work_Conv_2_Pallet_Exit_Sen ,X3-06
+55,Input,0,-1,55,   Spare_X3_07 ,X3-07
+56,Input,0,-1,56,   Spare_X3_08 ,X3-08
+57,Input,0,-1,57,   Spare_X3_09 ,X3-09
+58,Input,0,-1,58,   Spare_X3_10 ,X3-10
+59,Input,0,-1,59,   Spare_X3_11 ,X3-11
+60,Input,0,-1,60,   Spare_X3_12 ,X3-12
+61,Input,0,-1,61,   Spare_X3_13 ,X3-13
+62,Input,0,-1,62,   Spare_X3_14 ,X3-14
+63,Input,0,-1,63,   Spare_X3_15,X3-15
+64,Output,0,-1,64,Spare_Y0_00 ,Y0-00
+65,Output,0,-1,65,Spare_Y0_01 ,Y0-01
+66,Output,0,-1,66,Spare_Y0_02 ,Y0-02
+67,Output,0,-1,67,Spare_Y0_03 ,Y0-03
+68,Output,0,-1,68,Spare_Y0_04 ,Y0-04
+69,Output,0,-1,69,Spare_Y0_05 ,Y0-05
+70,Output,0,-1,70,Spare_Y0_06 ,Y0-06
+71,Output,0,-1,71,Spare_Y0_07 ,Y0-07
+72,Output,0,-1,72,Spare_Y0_08 ,Y0-08
+73,Output,0,-1,73,Spare_Y0_09 ,Y0-09
+74,Output,0,-1,74,Spare_Y0_10 ,Y0-10
+75,Output,0,-1,75,Spare_Y0_11 ,Y0-11
+76,Output,0,-1,76,Spare_Y0_12 ,Y0-12
+77,Output,0,-1,77,Spare_Y0_13 ,Y0-13
+78,Output,0,-1,78,Spare_Y0_14 ,Y0-14
+79,Output,0,-1,79,Spare_Y0_15 ,Y0-15
+80,Output,0,-1,80,Spare_Y1_00 ,Y1-00
+81,Output,0,-1,81,Spare_Y1_01 ,Y1-01
+82,Output,0,-1,82,Spare_Y1_02 ,Y1-02
+83,Output,0,-1,83,Spare_Y1_03 ,Y1-03
+84,Output,0,-1,84,Spare_Y1_04 ,Y1-04
+85,Output,0,-1,85,Spare_Y1_05 ,Y1-05
+86,Output,0,-1,86,M_C_Lamp_On_Sig ,Y1-06
+87,Output,0,-1,87,Safety_Bypass_On_Sig ,Y1-07
+88,Output,0,-1,88,Main_on_off_valve ,Y1-08
+89,Output,0,-1,89,Spare_Y1_09 ,Y1-09
+90,Output,0,-1,90,Spare_Y1_10 ,Y1-10
+91,Output,0,-1,91,Spare_Y1_11 ,Y1-11
+92,Output,0,-1,92,Spare_Y1_12 ,Y1-12
+93,Output,0,-1,93,Spare_Y1_13 ,Y1-13
+94,Output,0,-1,94,Spare_Y1_14 ,Y1-14
+95,Output,0,-1,95,Spare_Y1_15 ,Y1-15
+96,Output,0,-1,96,Str_PB ,Y2-00
+97,Output,0,-1,97,Stop_PB ,Y2-01
+98,Output,0,-1,98,Reset_PB ,Y2-02
+99,Output,0,-1,99,Tower_Lamp_Green ,Y2-03
+100,Output,0,-1,100,Tower_Lamp_Yellow ,Y2-04
+101,Output,0,-1,101,Tower_Lamp_Red ,Y2-05
+102,Output,0,-1,102,Tower_Lamp_Buzzer ,Y2-06
+103,Output,0,-1,103,Feed_Pick_Up_The_Command ,Y2-07
+104,Output,0,-1,104,Feed_Recoils_Command ,Y2-08
+105,Output,0,-1,105,Spare ,Y2-09
+106,Output,0,-1,106,Pick_Place_Z1_Axis_Vaccuum_ON ,Y2-10
+107,Output,0,-1,107,Pick_Place_Z2_Axis_Vaccuum_ON ,Y2-11
+108,Output,0,-1,108,GRT_Ready_To_Receive_Pallet ,Y2-12
+109,Output,0,-1,109,GRT_Ready_To_Send_Pallet ,Y2-13
+110,Output,0,-1,110,Pick_Place_Z1_Axis_Vaccuum_Blow ,Y2-14
+111,Output,0,-1,111,Pick_Place_Z2_Axis_Vaccuum_Blow ,Y2-15
+112,Output,0,-1,112,Scan_Conv_Stopper_Cyl_Up ,Y100-0
+113,Output,0,-1,113,Scan_Conv_Stopper_Cyl_Dn ,Y100-1
+114,Output,0,-1,114,Work_Conv_1_pallet_Lift_Cyl_Up ,Y100-2
+115,Output,0,-1,115,Work_Conv_1_pallet_Lift_Cyl_Dn ,Y100-3
+116,Output,0,-1,116,Work_Conv_1_Stopper_Cyl_Up ,Y100-4
+117,Output,0,-1,117,Work_Conv_1_Stopper_Cyl_Dn ,Y100-5
+118,Output,0,-1,118,Work_Conv_2_pallet_Lift_Cyl_Up ,Y100-6
+119,Output,0,-1,119,Work_Conv_2_pallet_Lift_Cyl_Dn ,Y100-7
+120,Output,0,-1,120,Work_Conv_2_Stopper_Cyl_Up ,Y100-8
+121,Output,0,-1,121,Work_Conv_2_Stopper_Cyl_Dn ,Y100-9
+122,Output,0,-1,122,Feed_Film_Clmp_Cyl_Up ,Y100-10
+123,Output,0,-1,123,Feed_Film_Clmp_Cyl_Dn ,Y100-11
+124,Output,0,-1,124,Spare_Y100_12 ,Y100-12
+125,Output,0,-1,125,Spare_Y100_13 ,Y100-13
+126,Output,0,-1,126,Spare_Y100_14 ,Y100-14
+127,Output,0,-1,127,Spare_Y100_15 ,Y100-15
+128,Output,0,-1,128,Spare_Y100_16 ,Y100-16
+129,Output,0,-1,129,Spare_Y100_17 ,Y100-17
+130,Output,0,-1,130,Spare_Y100_18 ,Y100-18
+131,Output,0,-1,131,Spare_Y100_19 ,Y100-19
+132,Output,0,-1,132,Spare_Y100_20 ,Y100-20
+133,Output,0,-1,133,Spare_Y100_21 ,Y100-21
+134,Output,0,-1,134,Spare_Y100_22 ,Y100-22
+135,Output,0,-1,135,Spare_Y100_23 ,Y100-23
+136,Output,0,-1,136,Spare_Y100_24 ,Y100-24
+137,Output,0,-1,137,Spare_Y100_25 ,Y100-25
+138,Output,0,-1,138,Spare_Y100_26 ,Y100-26
+139,Output,0,-1,139,Spare_Y100_27 ,Y100-27
+140,Output,0,-1,140,Spare_Y100_28 ,Y100-28
+141,Output,0,-1,141,Spare_Y100_29 ,Y100-29
+142,Output,0,-1,142,Spare_Y100_30 ,Y100-30
+143,Output,0,-1,143,Spare_Y100_31 ,Y100-31
+144,Output,0,-1,144,Feed_Bed_1_Vacuum_ON,Y101-0
+145,Output,0,-1,145,Feed_Bed_1_Vacuum_OFF,Y101-1
+146,Output,0,-1,146,Feed_Bed_2_Vacuum_ON,Y101-2
+147,Output,0,-1,147,Feed_Bed_2_Vacuum_OFF,Y101-3
+148,Output,0,-1,148,Spare_Y101_4 ,Y101-4
+149,Output,0,-1,149,Spare_Y101_5 ,Y101-5
+150,Output,0,-1,150,Spare_Y101_6 ,Y101-6
+151,Output,0,-1,151,Spare_Y101_7 ,Y101-7
+152,Output,0,-1,152,Spare_Y101_8 ,Y101-8
+153,Output,0,-1,153,Spare_Y101_9 ,Y101-9
+154,Output,0,-1,154,Spare_Y101_10 ,Y101-10
+155,Output,0,-1,155,Spare_Y101_11 ,Y101-11
+156,Output,0,-1,156,Spare_Y101_12 ,Y101-12
+157,Output,0,-1,157,Spare_Y101_13 ,Y101-13
+158,Output,0,-1,158,Spare_Y101_14 ,Y101-14
+159,Output,0,-1,159,Spare_Y101_15 ,Y101-15
+160,Output,0,-1,160,Spare_Y101_16 ,Y101-16
+161,Output,0,-1,161,Spare_Y101_17 ,Y101-17
+162,Output,0,-1,162,Spare_Y101_18 ,Y101-18
+163,Output,0,-1,163,Spare_Y101_19 ,Y101-19
+164,Output,0,-1,164,Spare_Y101_20 ,Y101-20
+165,Output,0,-1,165,Spare_Y101_21 ,Y101-21
+166,Output,0,-1,166,Spare_Y101_22 ,Y101-22
+167,Output,0,-1,167,Spare_Y101_23 ,Y101-23
+168,Output,0,-1,168,Spare_Y101_24 ,Y101-24
+169,Output,0,-1,169,Spare_Y101_25 ,Y101-25
+170,Output,0,-1,170,Spare_Y101_26 ,Y101-26
+171,Output,0,-1,171,Spare_Y101_27 ,Y101-27
+172,Output,0,-1,172,Spare_Y101_28 ,Y101-28
+173,Output,0,-1,173,Spare_Y101_29 ,Y101-29
+174,Output,0,-1,174,Spare_Y101_30 ,Y101-30
+175,Output,0,-1,175,Spare_Y101_31,Y101-31
+176,ANALOG_INPUT,0,-1,176, Pick_Place_Z1_Axis_Force_Fb,AI0.0
+177,ANALOG_INPUT,0,-1,177, Pick_Place_Z2_Axis_Force_Fb,AI0.1

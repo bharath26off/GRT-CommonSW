@@ -1,0 +1,26 @@
+Module_Name : OFFSET 
+Date&Time : 01-10-2026 2.44.39 PM
+
+Name,Xvalue,Yvalue,Rvalue
+Cavity1Pasting,-0.25,1.5,0.1
+Cavity2Pasting,-0.28,1.5,0.1
+Cavity3Pasting,-0.23,1.4,0.1
+Cavity4Pasting,1.3,0.49,0.1
+Cavity5Pasting,1.3,0.4,0.1
+Cavity6Pasting,1.3,0.4,0.1
+Cavity7Pasting,0.31,-0.12,0.12
+Cavity8Pasting,0.32,-0.1,0.15
+Cavity9Pasting,0.32,-0.16,0.15
+Cavity10Pasting,-0.22,0.3,0
+Cavity11Pasting,-0.27,0.28,0
+Cavity12Pasting,-0.27,0.29,0
+FEED1N1,1.3,3.3,0
+FEED2N1,2.7,5,0
+FEED1N2,2,1,0
+FEED2N2,2,1,0
+FEED3N1,0,0,0
+FEED4N1,0,0,0
+FEED3N2,0,0,0
+FEED4N2,0,0,0
+
+

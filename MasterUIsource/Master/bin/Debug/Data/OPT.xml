@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<OPT>
+  <COM Name="COM5" BaudRate="9600" DataBits="8" Parity="Odd" StopBits="" HandShake="" />
+  <COM Name="COM7" BaudRate="9600" DataBits="8" Parity="" StopBits="" HandShake="" />
+</OPT>

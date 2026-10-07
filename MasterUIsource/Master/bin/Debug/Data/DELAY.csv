@@ -1,0 +1,9 @@
+Name,Delay
+Z_Delay,350
+Scanning_Exit_Sens_Delay,4000
+Working_Conv_1_Exit_Sens_Delay,4000
+Working_Conv_2_Exit_Sens_Delay,4000
+Stopper_loader_Time,100
+Stopper_Working_Time,100
+Stopper_Recheck_Time,100
+Barcode_Scanner_Recevier_Delay,5000

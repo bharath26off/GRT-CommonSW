@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Master", "Master\Master.csproj", "{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "McAutoSeq", "McAutoSeq\McAutoSeq.csproj", "{11E411EA-331F-4085-8CE1-7B6824C6DAFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11E411EA-331F-4085-8CE1-7B6824C6DAFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11E411EA-331F-4085-8CE1-7B6824C6DAFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11E411EA-331F-4085-8CE1-7B6824C6DAFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11E411EA-331F-4085-8CE1-7B6824C6DAFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A413F02A-0400-4B2B-BA67-D2E7D4734911}
+	EndGlobalSection
+EndGlobal

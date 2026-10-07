@@ -1,0 +1,3 @@
+Position,X,X-Vel (mm),X Acc (mm/s),X DeAcc,Y,Y-Vel (mm),Y Acc (mm/s),Y DeAcc,Z,Z-Vel (mm),Z Acc (mm/s),Z DeAcc
+SafePosition,0,0,0,0,0,0,0,0,0,0,0,0
+Pressing,-200,0,0,0,0,0,0,0,40,0,0,0

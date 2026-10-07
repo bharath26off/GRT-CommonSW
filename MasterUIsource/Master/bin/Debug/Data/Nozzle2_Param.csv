@@ -1,0 +1,5 @@
+Position,col(X),Row(Y),Z2,R2,X-Vel (mm),X Acc (mm/s),X DeAcc,Y-Vel (mm),Y Acc (mm/s),Y DeAcc,Z-Vel (mm),Z Acc (mm/s),Z DeAcc,R-Vel (mm),RAcc (mm/s),R DeAcc
+cavity Photo,280.01,133.68,0,0,20,1000,1000,20,1000,1000,30,500,500,30,50,50
+cavity Position,126.02,224.19,27.6,93.04,20,1000,1000,20,1000,1000,30,500,500,30,50,50
+Nozzle Location,-47.95,49.68,0,3.04,20,1000,1000,20,1000,1000,30,500,500,30,50,50
+Feeder position,118.68,83.97,51.2,3.04,20,1000,1000,20,1000,1000,30,500,500,30,50,50

@@ -1,0 +1,78 @@
+﻿<CaliberationModule>
+	<Select>
+		<MovementPriority>
+		</MovementPriority>
+	</Select>
+
+	<Nozzle1>
+		<MovementPriority>
+			<Value>Servo_Z1</Value>
+			<Value>Servo_X1</Value>
+			<Value>Servo_Y1</Value>
+			<Value>Servo_R1</Value>
+		</MovementPriority>
+		<SafePosition_Priority>
+			<Value>Servo_Z1</Value>
+			<Value>Servo_X1</Value>
+			<Value>Servo_Y1</Value>
+			<Value>Servo_R1</Value>
+		</SafePosition_Priority>
+	</Nozzle1>
+
+	<Nozzle2>
+		<MovementPriority>
+			<Value>Servo_Z2</Value>
+			<Value>Servo_X2</Value>
+			<Value>Servo_Y2</Value>
+			<Value>Servo_R2</Value>
+		</MovementPriority>
+		<SafePosition_Priority>
+			<Value>Servo_Z2</Value>
+			<Value>Servo_X2</Value>
+			<Value>Servo_Y2</Value>
+			<Value>Servo_R2</Value>
+		</SafePosition_Priority>
+	</Nozzle2>
+
+	<Nozzle1_Train>
+		<MovementPriority>
+			<Value>Servo_Z1</Value>
+			<Value>Servo_X1</Value>
+			<Value>Servo_Y1</Value>
+			<Value>Servo_R1</Value>
+		</MovementPriority>
+		<SafePosition_Priority>
+			<Value>Servo_Z1</Value>
+			<Value>Servo_X1</Value>
+			<Value>Servo_Y1</Value>
+			<Value>Servo_R1</Value>
+		</SafePosition_Priority>
+	</Nozzle1_Train>
+
+	<Nozzle2_Train>
+		<MovementPriority>
+			<Value>Servo_Z2</Value>
+			<Value>Servo_X2</Value>
+			<Value>Servo_Y2</Value>
+			<Value>Servo_R2</Value>
+		</MovementPriority>
+		<SafePosition_Priority>
+			<Value>Servo_Z2</Value>
+			<Value>Servo_X2</Value>
+			<Value>Servo_Y2</Value>
+			<Value>Servo_R2</Value>
+		</SafePosition_Priority>
+	</Nozzle2_Train>
+
+	<Final>
+		<MovementPriority>
+			<Value>Servo_X2</Value>
+			<Value>Servo_Y2</Value>
+		</MovementPriority>
+		<SafePosition_Priority>
+			<Value>Servo_X2</Value>
+			<Value>Servo_Y2</Value>
+		</SafePosition_Priority>
+	</Final>
+
+</CaliberationModule>

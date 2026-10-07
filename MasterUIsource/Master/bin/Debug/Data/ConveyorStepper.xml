@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ConveyorStepper>
+<Stepper MotorName="LoadingConveyorA" ForwardCommand="Scan_Conv_Mtr_A_Fwd_Dir" ReverseCommand="Scan_Conv_Mtr_A_Rev_Dir" AlarmResetCommand="Scan_Conv_Mtr_A_Alm_reset" AlarmSignal="Scan_Conv_Mtr_A_Alm_Sig"  />
+<Stepper MotorName="LoadingConveyorB" ForwardCommand="Scan_Conv_Mtr_B_Fwd_Dir" ReverseCommand="Scan_Conv_Mtr_B_Rev_Dir" AlarmResetCommand="Scan_Conv_Mtr_B_Alm_reset" AlarmSignal="Scan_Conv_Mtr_B_Alm_Sig"  />
+<Stepper MotorName="WorkingConveyor1A" ForwardCommand="Work_Conv_1_Mtr_A_Fwd_Dir" ReverseCommand="Work_Conv_1_Mtr_A_Rev_Dir" AlarmResetCommand="Work_Conv_1_Mtr_A_Alm_reset" AlarmSignal="Work_Conv_1_Mtr_A_Alm_Sig"  />
+<Stepper MotorName="WorkingConveyor1B" ForwardCommand="Work_Conv_1_Mtr_B_Fwd_Dir" ReverseCommand="Work_Conv_1_Mtr_B_Rev_Dir" AlarmResetCommand="Work_Conv_1_Mtr_B_Alm_reset" AlarmSignal="Work_Conv_1_Mtr_B_Alm_Sig"  />
+<Stepper MotorName="WorkingConveyor2A" ForwardCommand="Work_Conv_2_Mtr_A_Fwd_Dir" ReverseCommand="Work_Conv_2_Mtr_A_Rev_Dir" AlarmResetCommand="Work_Conv_2_Mtr_A_Alm_reset" AlarmSignal="Work_Conv_2_Mtr_A_Alm_Sig"  />
+<Stepper MotorName="WorkingConveyor2B" ForwardCommand="Work_Conv_2_Mtr_B_Fwd_Dir" ReverseCommand="Work_Conv_2_Mtr_B_Rev_Dir" AlarmResetCommand="Work_Conv_2_Mtr_B_Alm_reset" AlarmSignal="Work_Conv_2_Mtr_B_Alm_Sig" />
+</ConveyorStepper>

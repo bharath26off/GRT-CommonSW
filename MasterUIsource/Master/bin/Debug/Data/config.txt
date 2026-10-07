@@ -1,0 +1,18 @@
+<Configuration>
+	<DirectoryPath>D:\Logger_V1\Logs</DirectoryPath>
+	<Retention>3</Retention>
+	<FileExtension>.csv</FileExtension>
+	<SQLTableName></SQLTableName>
+	<Database></Database>
+	<MachineName>BOT-GRT</MachineName>
+	<MachineVersion>V 1.0.1.2</MachineVersion>
+	<InputPort>8</InputPort>
+	<OutputPort>14</OutputPort>
+	<SqlConnectionString>Server=(localdb)\MSSQLLocalDB;Database=TEAL_GRT_BG1;Trusted_Connection=True;</SqlConnectionString>
+	<CavityRows>4</CavityRows>
+	<CavityCols>3</CavityCols>
+	<MachineSite>TESS</MachineSite>
+	<MachineConveyor>6</MachineConveyor>
+	<MachineConveyorIO>Yes</MachineConveyorIO>
+	<MachineIoChaged>No</MachineIoChaged>
+</Configuration>
