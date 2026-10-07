@@ -1,0 +1,929 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\masteruisource\\master\\grt\\function\\autoseq\\workingconveyor1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\grt\\function\\autoseq\\workingconveyor1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|c:\\users\\dell\\desktop\\new software\\zip files\\common application_ final _ soft\\finle\\masteruisource\\master\\grt\\function\\autoseq\\workingconveyor2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\grt\\function\\autoseq\\workingconveyor2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\masteruisource\\master\\log\\logclass\\producationlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\log\\logclass\\producationlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\masteruisource\\master\\uiforms\\homescreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\uiforms\\homescreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\masteruisource\\master\\uiforms\\homescreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\uiforms\\homescreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\masteruisource\\master\\grt\\function\\autoseq\\feeding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\grt\\function\\autoseq\\feeding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\masteruisource\\master\\commonclass\\globalvariable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\commonclass\\globalvariable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\masteruisource\\master\\commonclass\\dido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\commonclass\\dido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\masteruisource\\master\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\masteruisource\\master\\uiforms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\uiforms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\masteruisource\\master\\uiforms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\uiforms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\masteruisource\\master\\uiforms\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\uiforms\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\masteruisource\\master\\grt\\function\\commonclass\\homingcls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\grt\\function\\commonclass\\homingcls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\masteruisource\\master\\uiforms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\uiforms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\masteruisource\\master\\uiforms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\uiforms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\masteruisource\\master\\uiforms\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\uiforms\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\masteruisource\\master\\grt\\function\\commonclass\\steppersystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\grt\\function\\commonclass\\steppersystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\masteruisource\\master\\commonclass\\s_pdca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\commonclass\\s_pdca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\masteruisource\\master\\uiforms\\report_screen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\uiforms\\report_screen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\masteruisource\\master\\uiforms\\recipieform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\uiforms\\recipieform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\masteruisource\\master\\uiforms\\manualscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\uiforms\\manualscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\masteruisource\\master\\grt\\function\\stopper\\recheckstopper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\grt\\function\\stopper\\recheckstopper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\masteruisource\\master\\commonclass\\globalvariable_machinespecific.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\commonclass\\globalvariable_machinespecific.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\masteruisource\\master\\grt\\function\\autoseq\\loadingconveyor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\grt\\function\\autoseq\\loadingconveyor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\masteruisource\\master\\grt\\function\\startapp\\conveyorsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\grt\\function\\startapp\\conveyorsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\masteruisource\\master\\commonclass\\systemmonitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\commonclass\\systemmonitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\masteruisource\\master\\calibration\\staticdynamic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\calibration\\staticdynamic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\masteruisource\\master\\uiforms\\alarmpopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\uiforms\\alarmpopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\masteruisource\\master\\uiforms\\alarmpopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\uiforms\\alarmpopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\masteruisource\\master\\grt\\function\\commonclass\\visionsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\grt\\function\\commonclass\\visionsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\masteruisource\\master\\grt\\function\\commonclass\\scannersystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\grt\\function\\commonclass\\scannersystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\masteruisource\\master\\commonclass\\advantech_pcie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\commonclass\\advantech_pcie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\masteruisource\\master\\grt\\function\\interface\\ilodingconveyor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\grt\\function\\interface\\ilodingconveyor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\masteruisource\\master\\grt\\function\\interface\\iconveyor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\grt\\function\\interface\\iconveyor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\masteruisource\\master\\grt\\function\\interface\\icamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\grt\\function\\interface\\icamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\masteruisource\\master\\grt\\function\\interface\\iaxis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\grt\\function\\interface\\iaxis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\masteruisource\\master\\grt\\function\\commonclass\\gantrysystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\grt\\function\\commonclass\\gantrysystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\masteruisource\\master\\commonclass\\sfcclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\commonclass\\sfcclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\masteruisource\\master\\commonclass\\objectlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\commonclass\\objectlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\masteruisource\\master\\commonclass\\motor_properties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\commonclass\\motor_properties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\masteruisource\\master\\commonclass\\machinehealthtracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\commonclass\\machinehealthtracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\masteruisource\\master\\commonclass\\io_stepper_config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\commonclass\\io_stepper_config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\masteruisource\\master\\commonclass\\gridview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\commonclass\\gridview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\masteruisource\\master\\commonclass\\globalvariable_settings_screen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\commonclass\\globalvariable_settings_screen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\masteruisource\\master\\uiforms\\recipieform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\uiforms\\recipieform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\masteruisource\\master\\uiforms\\manualscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\uiforms\\manualscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\masteruisource\\master\\commonclass\\advantech_pcie_stepper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\commonclass\\advantech_pcie_stepper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\masteruisource\\master\\uiforms\\homescreen.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\uiforms\\homescreen.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\masteruisource\\master\\uiforms\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\uiforms\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\masteruisource\\master\\log\\logclass\\runninglogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\log\\logclass\\runninglogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\masteruisource\\master\\uiforms\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\uiforms\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\masteruisource\\master\\grt\\function\\interface\\iworkingconveyor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\grt\\function\\interface\\iworkingconveyor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\masteruisource\\master\\log\\logclass\\productiondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\log\\logclass\\productiondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\masteruisource\\master\\log\\logclass\\alarmlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\log\\logclass\\alarmlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65AFC4E8-9E0D-461B-AD2F-29E91E0E25C0}|GRT_BG1_V54\\GRT_BG1_V54.csproj|C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\grt_bg1_v54\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65AFC4E8-9E0D-461B-AD2F-29E91E0E25C0}|GRT_BG1_V54\\GRT_BG1_V54.csproj|solutionrelative:grt_bg1_v54\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\masteruisource\\master\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\masteruisource\\master\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProducationLog.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\MasterUIsource\\Master\\Log\\LogClass\\ProducationLog.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\Log\\LogClass\\ProducationLog.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\MasterUIsource\\Master\\Log\\LogClass\\ProducationLog.cs",
+              "RelativeToolTip": "MasterUIsource\\Master\\Log\\LogClass\\ProducationLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T08:33:36.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeScreen.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\MasterUIsource\\Master\\UIForms\\HomeScreen.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\UIForms\\HomeScreen.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\MasterUIsource\\Master\\UIForms\\HomeScreen.cs",
+              "RelativeToolTip": "MasterUIsource\\Master\\UIForms\\HomeScreen.cs",
+              "ViewState": "AgIAAH8JAAAAAAAAAAAUwKUJAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T13:13:20.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\MasterUIsource\\Master\\UIForms\\MainForm.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\UIForms\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\MasterUIsource\\Master\\UIForms\\MainForm.cs",
+              "RelativeToolTip": "MasterUIsource\\Master\\UIForms\\MainForm.cs",
+              "ViewState": "AgIAAJoBAAAAAAAAAAASwNYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T13:13:20.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WorkingConveyor1.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\MasterUIsource\\Master\\GRT\\Function\\AutoSeq\\WorkingConveyor1.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\GRT\\Function\\AutoSeq\\WorkingConveyor1.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\MasterUIsource\\Master\\GRT\\Function\\AutoSeq\\WorkingConveyor1.cs",
+              "RelativeToolTip": "MasterUIsource\\Master\\GRT\\Function\\AutoSeq\\WorkingConveyor1.cs",
+              "ViewState": "AgIAAFsDAAAAAAAAAAAEwMACAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T13:13:20.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\MasterUIsource\\Master\\Program.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\MasterUIsource\\Master\\Program.cs",
+              "RelativeToolTip": "MasterUIsource\\Master\\Program.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAASwDcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T13:13:21.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DIDO.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\MasterUIsource\\Master\\CommonClass\\DIDO.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\CommonClass\\DIDO.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\MasterUIsource\\Master\\CommonClass\\DIDO.cs",
+              "RelativeToolTip": "MasterUIsource\\Master\\CommonClass\\DIDO.cs",
+              "ViewState": "AgIAAGYCAAAAAAAAAAAowHYCAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T13:13:21.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WorkingConveyor2.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\MasterUIsource\\Master\\GRT\\Function\\AutoSeq\\WorkingConveyor2.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\GRT\\Function\\AutoSeq\\WorkingConveyor2.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\MasterUIsource\\Master\\GRT\\Function\\AutoSeq\\WorkingConveyor2.cs",
+              "RelativeToolTip": "MasterUIsource\\Master\\GRT\\Function\\AutoSeq\\WorkingConveyor2.cs",
+              "ViewState": "AgIAAFUDAAAAAAAAAAAYwOEDAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T13:13:20.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeScreen.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\MasterUIsource\\Master\\UIForms\\HomeScreen.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\UIForms\\HomeScreen.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application\\Finle\\MasterUIsource\\Master\\UIForms\\HomeScreen.cs [Design]",
+              "RelativeToolTip": "..\\..\\Common Application\\Finle\\MasterUIsource\\Master\\UIForms\\HomeScreen.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T13:13:21.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GlobalVariable.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\MasterUIsource\\Master\\CommonClass\\GlobalVariable.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\CommonClass\\GlobalVariable.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\MasterUIsource\\Master\\CommonClass\\GlobalVariable.cs",
+              "RelativeToolTip": "MasterUIsource\\Master\\CommonClass\\GlobalVariable.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACQDAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T13:13:20.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\MasterUIsource\\Master\\UIForms\\MainForm.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\UIForms\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\25-09-2026\\New\\BOT-GRT_LINE 1 RETRO V57 _V1.8\\MasterUIsource\\Master\\UIForms\\MainForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\25-09-2026\\New\\BOT-GRT_LINE 1 RETRO V57 _V1.8\\MasterUIsource\\Master\\UIForms\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T13:13:21.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Feeding.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\MasterUIsource\\Master\\GRT\\Function\\AutoSeq\\Feeding.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\GRT\\Function\\AutoSeq\\Feeding.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\MasterUIsource\\Master\\GRT\\Function\\AutoSeq\\Feeding.cs",
+              "RelativeToolTip": "MasterUIsource\\Master\\GRT\\Function\\AutoSeq\\Feeding.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAWwBQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T20:45:03.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\MasterUIsource\\Master\\UIForms\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\UIForms\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\MasterUIsource\\Master\\UIForms\\MainForm.Designer.cs",
+              "RelativeToolTip": "MasterUIsource\\Master\\UIForms\\MainForm.Designer.cs",
+              "ViewState": "AgIAAKIBAAAAAAAAAAAAAKIBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T13:13:21.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Homingcls.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\MasterUIsource\\Master\\GRT\\Function\\CommonClass\\Homingcls.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\GRT\\Function\\CommonClass\\Homingcls.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\MasterUIsource\\Master\\GRT\\Function\\CommonClass\\Homingcls.cs",
+              "RelativeToolTip": "MasterUIsource\\Master\\GRT\\Function\\CommonClass\\Homingcls.cs",
+              "ViewState": "AgIAAK4AAAAAAAAAAAAmwBwBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T13:13:21.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\MasterUIsource\\Master\\UIForms\\Login.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\UIForms\\Login.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\MasterUIsource\\Master\\UIForms\\Login.cs",
+              "RelativeToolTip": "MasterUIsource\\Master\\UIForms\\Login.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAgwIQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T13:13:20.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\MasterUIsource\\Master\\UIForms\\Login.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\UIForms\\Login.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\25-09-2026\\New\\BOT-GRT_LINE 1 RETRO V57 _V1.8\\MasterUIsource\\Master\\UIForms\\Login.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\25-09-2026\\New\\BOT-GRT_LINE 1 RETRO V57 _V1.8\\MasterUIsource\\Master\\UIForms\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T13:13:21.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Settings.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\MasterUIsource\\Master\\UIForms\\Settings.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\UIForms\\Settings.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\25-09-2026\\New\\BOT-GRT_LINE 1 RETRO V57 _V1.8\\MasterUIsource\\Master\\UIForms\\Settings.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\25-09-2026\\New\\BOT-GRT_LINE 1 RETRO V57 _V1.8\\MasterUIsource\\Master\\UIForms\\Settings.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T13:13:21.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "StepperSystem.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\MasterUIsource\\Master\\GRT\\Function\\CommonClass\\StepperSystem.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\GRT\\Function\\CommonClass\\StepperSystem.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\MasterUIsource\\Master\\GRT\\Function\\CommonClass\\StepperSystem.cs",
+              "RelativeToolTip": "MasterUIsource\\Master\\GRT\\Function\\CommonClass\\StepperSystem.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAArwC4AAACbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T19:31:46.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "S_Pdca.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\MasterUIsource\\Master\\CommonClass\\S_Pdca.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\CommonClass\\S_Pdca.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\MasterUIsource\\Master\\CommonClass\\S_Pdca.cs",
+              "RelativeToolTip": "MasterUIsource\\Master\\CommonClass\\S_Pdca.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAYwE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T13:13:21.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Report_Screen.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\MasterUIsource\\Master\\UIForms\\Report_Screen.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\UIForms\\Report_Screen.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\25-09-2026\\New\\BOT-GRT_LINE 1 RETRO V57 _V1.8\\MasterUIsource\\Master\\UIForms\\Report_Screen.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\25-09-2026\\New\\BOT-GRT_LINE 1 RETRO V57 _V1.8\\MasterUIsource\\Master\\UIForms\\Report_Screen.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T19:59:35.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ManualScreen.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\MasterUIsource\\Master\\UIForms\\ManualScreen.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\UIForms\\ManualScreen.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\25-09-2026\\New\\BOT-GRT_LINE 1 RETRO V57 _V1.8\\MasterUIsource\\Master\\UIForms\\ManualScreen.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\25-09-2026\\New\\BOT-GRT_LINE 1 RETRO V57 _V1.8\\MasterUIsource\\Master\\UIForms\\ManualScreen.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T13:13:21.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "RecheckStopper.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\MasterUIsource\\Master\\GRT\\Function\\Stopper\\RecheckStopper.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\GRT\\Function\\Stopper\\RecheckStopper.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\MasterUIsource\\Master\\GRT\\Function\\Stopper\\RecheckStopper.cs",
+              "RelativeToolTip": "MasterUIsource\\Master\\GRT\\Function\\Stopper\\RecheckStopper.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAowAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T19:32:00.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RecipieForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\MasterUIsource\\Master\\UIForms\\RecipieForm.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\UIForms\\RecipieForm.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\25-09-2026\\New\\BOT-GRT_LINE 1 RETRO V57 _V1.8\\MasterUIsource\\Master\\UIForms\\RecipieForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\25-09-2026\\New\\BOT-GRT_LINE 1 RETRO V57 _V1.8\\MasterUIsource\\Master\\UIForms\\RecipieForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T13:13:21.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "GlobalVariable_MachineSpecific.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\MasterUIsource\\Master\\CommonClass\\GlobalVariable_MachineSpecific.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\CommonClass\\GlobalVariable_MachineSpecific.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\MasterUIsource\\Master\\CommonClass\\GlobalVariable_MachineSpecific.cs",
+              "RelativeToolTip": "MasterUIsource\\Master\\CommonClass\\GlobalVariable_MachineSpecific.cs",
+              "ViewState": "AgIAAC0DAAAAAAAAAAAWwEADAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T13:13:21.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LoadingConveyor.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\MasterUIsource\\Master\\GRT\\Function\\AutoSeq\\LoadingConveyor.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\GRT\\Function\\AutoSeq\\LoadingConveyor.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\MasterUIsource\\Master\\GRT\\Function\\AutoSeq\\LoadingConveyor.cs",
+              "RelativeToolTip": "MasterUIsource\\Master\\GRT\\Function\\AutoSeq\\LoadingConveyor.cs",
+              "ViewState": "AgIAALcEAAAAAAAAAAAcwMAEAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T13:13:21.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ConveyorSystem.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\MasterUIsource\\Master\\GRT\\Function\\StartApp\\ConveyorSystem.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\GRT\\Function\\StartApp\\ConveyorSystem.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\MasterUIsource\\Master\\GRT\\Function\\StartApp\\ConveyorSystem.cs",
+              "RelativeToolTip": "MasterUIsource\\Master\\GRT\\Function\\StartApp\\ConveyorSystem.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAuwEoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T13:13:21.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "VisionSystem.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\MasterUIsource\\Master\\GRT\\Function\\CommonClass\\VisionSystem.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\GRT\\Function\\CommonClass\\VisionSystem.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\MasterUIsource\\Master\\GRT\\Function\\CommonClass\\VisionSystem.cs",
+              "RelativeToolTip": "MasterUIsource\\Master\\GRT\\Function\\CommonClass\\VisionSystem.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T13:13:20.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ManualScreen.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\MasterUIsource\\Master\\UIForms\\ManualScreen.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\UIForms\\ManualScreen.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\MasterUIsource\\Master\\UIForms\\ManualScreen.cs",
+              "RelativeToolTip": "MasterUIsource\\Master\\UIForms\\ManualScreen.cs",
+              "ViewState": "AgIAAMoDAAAAAAAAAADwv9UDAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T13:13:20.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SystemMonitor.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\MasterUIsource\\Master\\CommonClass\\SystemMonitor.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\CommonClass\\SystemMonitor.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\MasterUIsource\\Master\\CommonClass\\SystemMonitor.cs",
+              "RelativeToolTip": "MasterUIsource\\Master\\CommonClass\\SystemMonitor.cs",
+              "ViewState": "AgIAAKADAAAAAAAAAAAkwKUDAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T13:13:21.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ScannerSystem.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\MasterUIsource\\Master\\GRT\\Function\\CommonClass\\ScannerSystem.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\GRT\\Function\\CommonClass\\ScannerSystem.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\MasterUIsource\\Master\\GRT\\Function\\CommonClass\\ScannerSystem.cs",
+              "RelativeToolTip": "MasterUIsource\\Master\\GRT\\Function\\CommonClass\\ScannerSystem.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAwBIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T13:13:20.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "StaticDynamic.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\MasterUIsource\\Master\\calibration\\StaticDynamic.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\calibration\\StaticDynamic.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\MasterUIsource\\Master\\calibration\\StaticDynamic.cs",
+              "RelativeToolTip": "MasterUIsource\\Master\\calibration\\StaticDynamic.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAuwA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T08:03:52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AlarmPopup.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\MasterUIsource\\Master\\UIForms\\AlarmPopup.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\UIForms\\AlarmPopup.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\QPL1\\Vesrion 1.6\\V1.6_GRT_BG1_V57\\MasterUIsource\\Master\\UIForms\\AlarmPopup.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\QPL1\\Vesrion 1.6\\V1.6_GRT_BG1_V57\\MasterUIsource\\Master\\UIForms\\AlarmPopup.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T03:25:40.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AlarmPopup.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\MasterUIsource\\Master\\UIForms\\AlarmPopup.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\UIForms\\AlarmPopup.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\MasterUIsource\\Master\\UIForms\\AlarmPopup.cs",
+              "RelativeToolTip": "MasterUIsource\\Master\\UIForms\\AlarmPopup.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAowEwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T03:25:44.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Advantech_PCIE.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\MasterUIsource\\Master\\CommonClass\\Advantech_PCIE.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\CommonClass\\Advantech_PCIE.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\MasterUIsource\\Master\\CommonClass\\Advantech_PCIE.cs",
+              "RelativeToolTip": "MasterUIsource\\Master\\CommonClass\\Advantech_PCIE.cs",
+              "ViewState": "AgIAAMkIAAAAAAAAAAAowNIIAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T13:13:20.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IlodingConveyor.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\MasterUIsource\\Master\\GRT\\Function\\Interface\\IlodingConveyor.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\GRT\\Function\\Interface\\IlodingConveyor.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\MasterUIsource\\Master\\GRT\\Function\\Interface\\IlodingConveyor.cs",
+              "RelativeToolTip": "MasterUIsource\\Master\\GRT\\Function\\Interface\\IlodingConveyor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T13:13:21.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IConveyor.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\MasterUIsource\\Master\\GRT\\Function\\Interface\\IConveyor.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\GRT\\Function\\Interface\\IConveyor.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\MasterUIsource\\Master\\GRT\\Function\\Interface\\IConveyor.cs",
+              "RelativeToolTip": "MasterUIsource\\Master\\GRT\\Function\\Interface\\IConveyor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T13:13:21.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ICamera.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\MasterUIsource\\Master\\GRT\\Function\\Interface\\ICamera.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\GRT\\Function\\Interface\\ICamera.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\MasterUIsource\\Master\\GRT\\Function\\Interface\\ICamera.cs",
+              "RelativeToolTip": "MasterUIsource\\Master\\GRT\\Function\\Interface\\ICamera.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T13:13:21.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IAxis.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\MasterUIsource\\Master\\GRT\\Function\\Interface\\IAxis.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\GRT\\Function\\Interface\\IAxis.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\MasterUIsource\\Master\\GRT\\Function\\Interface\\IAxis.cs",
+              "RelativeToolTip": "MasterUIsource\\Master\\GRT\\Function\\Interface\\IAxis.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T13:13:21.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "GantrySystem.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\MasterUIsource\\Master\\GRT\\Function\\CommonClass\\GantrySystem.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\GRT\\Function\\CommonClass\\GantrySystem.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\MasterUIsource\\Master\\GRT\\Function\\CommonClass\\GantrySystem.cs",
+              "RelativeToolTip": "MasterUIsource\\Master\\GRT\\Function\\CommonClass\\GantrySystem.cs",
+              "ViewState": "AgIAAKcAAAAAAAAAAAAowL0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T13:13:21.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "SfcClient.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\MasterUIsource\\Master\\CommonClass\\SfcClient.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\CommonClass\\SfcClient.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\MasterUIsource\\Master\\CommonClass\\SfcClient.cs",
+              "RelativeToolTip": "MasterUIsource\\Master\\CommonClass\\SfcClient.cs",
+              "ViewState": "AgIAAMUBAAAAAAAAAAAqwOkBAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T13:13:21.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ObjectList.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\MasterUIsource\\Master\\CommonClass\\ObjectList.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\CommonClass\\ObjectList.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\MasterUIsource\\Master\\CommonClass\\ObjectList.cs",
+              "RelativeToolTip": "MasterUIsource\\Master\\CommonClass\\ObjectList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T13:13:21.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Motor_Properties.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\MasterUIsource\\Master\\CommonClass\\Motor_Properties.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\CommonClass\\Motor_Properties.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\MasterUIsource\\Master\\CommonClass\\Motor_Properties.cs",
+              "RelativeToolTip": "MasterUIsource\\Master\\CommonClass\\Motor_Properties.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T13:13:21.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IO_Stepper_Config.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\MasterUIsource\\Master\\CommonClass\\IO_Stepper_Config.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\CommonClass\\IO_Stepper_Config.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\MasterUIsource\\Master\\CommonClass\\IO_Stepper_Config.cs",
+              "RelativeToolTip": "MasterUIsource\\Master\\CommonClass\\IO_Stepper_Config.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T13:13:21.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "GridView.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\MasterUIsource\\Master\\CommonClass\\GridView.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\CommonClass\\GridView.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\MasterUIsource\\Master\\CommonClass\\GridView.cs",
+              "RelativeToolTip": "MasterUIsource\\Master\\CommonClass\\GridView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T13:13:21.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "GlobalVariable_Settings_Screen.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\MasterUIsource\\Master\\CommonClass\\GlobalVariable_Settings_Screen.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\CommonClass\\GlobalVariable_Settings_Screen.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\MasterUIsource\\Master\\CommonClass\\GlobalVariable_Settings_Screen.cs",
+              "RelativeToolTip": "MasterUIsource\\Master\\CommonClass\\GlobalVariable_Settings_Screen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T13:13:21.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "MachineHealthTracker.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\MasterUIsource\\Master\\CommonClass\\MachineHealthTracker.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\CommonClass\\MachineHealthTracker.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\MasterUIsource\\Master\\CommonClass\\MachineHealthTracker.cs",
+              "RelativeToolTip": "MasterUIsource\\Master\\CommonClass\\MachineHealthTracker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T13:13:21.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "RecipieForm.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\MasterUIsource\\Master\\UIForms\\RecipieForm.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\UIForms\\RecipieForm.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\MasterUIsource\\Master\\UIForms\\RecipieForm.cs",
+              "RelativeToolTip": "MasterUIsource\\Master\\UIForms\\RecipieForm.cs",
+              "ViewState": "AgIAAKIGAAAAAAAAAAAQwAgHAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T13:13:21.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Advantech_PCIE_Stepper.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\MasterUIsource\\Master\\CommonClass\\Advantech_PCIE_Stepper.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\CommonClass\\Advantech_PCIE_Stepper.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\MasterUIsource\\Master\\CommonClass\\Advantech_PCIE_Stepper.cs",
+              "RelativeToolTip": "MasterUIsource\\Master\\CommonClass\\Advantech_PCIE_Stepper.cs",
+              "ViewState": "AgIAAE8JAAAAAAAAAAAwwF0JAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T13:13:21.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "HomeScreen.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\MasterUIsource\\Master\\UIForms\\HomeScreen.Designer.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\UIForms\\HomeScreen.Designer.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\MasterUIsource\\Master\\UIForms\\HomeScreen.Designer.cs",
+              "RelativeToolTip": "MasterUIsource\\Master\\UIForms\\HomeScreen.Designer.cs",
+              "ViewState": "AgIAAB8BAAAAAAAAAAAewCkBAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T13:13:21.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Settings.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\MasterUIsource\\Master\\UIForms\\Settings.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\UIForms\\Settings.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\MasterUIsource\\Master\\UIForms\\Settings.cs",
+              "RelativeToolTip": "MasterUIsource\\Master\\UIForms\\Settings.cs",
+              "ViewState": "AgIAAN8AAAAAAAAAAAAAwOgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T13:13:21.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "RunningLogger.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\MasterUIsource\\Master\\Log\\LogClass\\RunningLogger.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\Log\\LogClass\\RunningLogger.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\MasterUIsource\\Master\\Log\\LogClass\\RunningLogger.cs",
+              "RelativeToolTip": "MasterUIsource\\Master\\Log\\LogClass\\RunningLogger.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAawF0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T13:13:21.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Settings.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\MasterUIsource\\Master\\UIForms\\Settings.Designer.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\UIForms\\Settings.Designer.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\MasterUIsource\\Master\\UIForms\\Settings.Designer.cs",
+              "RelativeToolTip": "MasterUIsource\\Master\\UIForms\\Settings.Designer.cs",
+              "ViewState": "AgIAAE4BAAAAAAAAAAAAAF8BAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T13:13:21.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "IWorkingConveyor.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\MasterUIsource\\Master\\GRT\\Function\\Interface\\IWorkingConveyor.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\GRT\\Function\\Interface\\IWorkingConveyor.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\MasterUIsource\\Master\\GRT\\Function\\Interface\\IWorkingConveyor.cs",
+              "RelativeToolTip": "MasterUIsource\\Master\\GRT\\Function\\Interface\\IWorkingConveyor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T13:13:21.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ProductionData.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\MasterUIsource\\Master\\Log\\LogClass\\ProductionData.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\Log\\LogClass\\ProductionData.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\MasterUIsource\\Master\\Log\\LogClass\\ProductionData.cs",
+              "RelativeToolTip": "MasterUIsource\\Master\\Log\\LogClass\\ProductionData.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAmwC4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T13:13:21.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "AlarmLog.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\MasterUIsource\\Master\\Log\\LogClass\\AlarmLog.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\Log\\LogClass\\AlarmLog.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\MasterUIsource\\Master\\Log\\LogClass\\AlarmLog.cs",
+              "RelativeToolTip": "MasterUIsource\\Master\\Log\\LogClass\\AlarmLog.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAwwEIAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T13:13:21.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\GRT_BG1_V54\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "GRT_BG1_V54\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\GRT_BG1_V54\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "GRT_BG1_V54\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T13:13:21.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\MasterUIsource\\Master\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\MasterUIsource\\Master\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "MasterUIsource\\Master\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T13:13:21.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\MasterUIsource\\Master\\App.config",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\App.config",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\New Software\\ZIP Files\\Common Application_ Final _ Soft\\Finle\\MasterUIsource\\Master\\App.config",
+              "RelativeToolTip": "MasterUIsource\\Master\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-08-11T13:13:21.057Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

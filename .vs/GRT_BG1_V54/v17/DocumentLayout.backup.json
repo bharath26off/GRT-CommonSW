@@ -1,492 +1,1000 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\GitSubModule\\GRT_BG1_V54\\",
+  "WorkspaceRootPath": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{65AFC4E8-9E0D-461B-AD2F-29E91E0E25C0}|GRT_BG1_V54\\GRT_BG1_V54.csproj|D:\\GitSubModule\\GRT_BG1_V54\\grt_bg1_v54\\function\\calibration\\staticdynamic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65AFC4E8-9E0D-461B-AD2F-29E91E0E25C0}|GRT_BG1_V54\\GRT_BG1_V54.csproj|solutionrelative:grt_bg1_v54\\function\\calibration\\staticdynamic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65AFC4E8-9E0D-461B-AD2F-29E91E0E25C0}|GRT_BG1_V54\\GRT_BG1_V54.csproj|D:\\GitSubModule\\GRT_BG1_V54\\grt_bg1_v54\\function\\production\\workingconveyor2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65AFC4E8-9E0D-461B-AD2F-29E91E0E25C0}|GRT_BG1_V54\\GRT_BG1_V54.csproj|solutionrelative:grt_bg1_v54\\function\\production\\workingconveyor2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65AFC4E8-9E0D-461B-AD2F-29E91E0E25C0}|GRT_BG1_V54\\GRT_BG1_V54.csproj|D:\\GitSubModule\\GRT_BG1_V54\\grt_bg1_v54\\function\\production\\workingconveyor1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65AFC4E8-9E0D-461B-AD2F-29E91E0E25C0}|GRT_BG1_V54\\GRT_BG1_V54.csproj|solutionrelative:grt_bg1_v54\\function\\production\\workingconveyor1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65AFC4E8-9E0D-461B-AD2F-29E91E0E25C0}|GRT_BG1_V54\\GRT_BG1_V54.csproj|D:\\GitSubModule\\GRT_BG1_V54\\grt_bg1_v54\\function\\production\\pasting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65AFC4E8-9E0D-461B-AD2F-29E91E0E25C0}|GRT_BG1_V54\\GRT_BG1_V54.csproj|solutionrelative:grt_bg1_v54\\function\\production\\pasting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65AFC4E8-9E0D-461B-AD2F-29E91E0E25C0}|GRT_BG1_V54\\GRT_BG1_V54.csproj|D:\\GitSubModule\\GRT_BG1_V54\\grt_bg1_v54\\function\\production\\loadingconveyor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65AFC4E8-9E0D-461B-AD2F-29E91E0E25C0}|GRT_BG1_V54\\GRT_BG1_V54.csproj|solutionrelative:grt_bg1_v54\\function\\production\\loadingconveyor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65AFC4E8-9E0D-461B-AD2F-29E91E0E25C0}|GRT_BG1_V54\\GRT_BG1_V54.csproj|D:\\GitSubModule\\GRT_BG1_V54\\grt_bg1_v54\\function\\production\\feeding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65AFC4E8-9E0D-461B-AD2F-29E91E0E25C0}|GRT_BG1_V54\\GRT_BG1_V54.csproj|solutionrelative:grt_bg1_v54\\function\\production\\feeding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65AFC4E8-9E0D-461B-AD2F-29E91E0E25C0}|GRT_BG1_V54\\GRT_BG1_V54.csproj|D:\\GitSubModule\\GRT_BG1_V54\\grt_bg1_v54\\function\\commonclass\\nozzlesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65AFC4E8-9E0D-461B-AD2F-29E91E0E25C0}|GRT_BG1_V54\\GRT_BG1_V54.csproj|solutionrelative:grt_bg1_v54\\function\\commonclass\\nozzlesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65AFC4E8-9E0D-461B-AD2F-29E91E0E25C0}|GRT_BG1_V54\\GRT_BG1_V54.csproj|D:\\GitSubModule\\GRT_BG1_V54\\grt_bg1_v54\\function\\dryrun\\loadingconveyor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65AFC4E8-9E0D-461B-AD2F-29E91E0E25C0}|GRT_BG1_V54\\GRT_BG1_V54.csproj|solutionrelative:grt_bg1_v54\\function\\dryrun\\loadingconveyor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65AFC4E8-9E0D-461B-AD2F-29E91E0E25C0}|GRT_BG1_V54\\GRT_BG1_V54.csproj|D:\\GitSubModule\\GRT_BG1_V54\\grt_bg1_v54\\function\\dryrun\\feeding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65AFC4E8-9E0D-461B-AD2F-29E91E0E25C0}|GRT_BG1_V54\\GRT_BG1_V54.csproj|solutionrelative:grt_bg1_v54\\function\\dryrun\\feeding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65AFC4E8-9E0D-461B-AD2F-29E91E0E25C0}|GRT_BG1_V54\\GRT_BG1_V54.csproj|D:\\GitSubModule\\GRT_BG1_V54\\grt_bg1_v54\\function\\dryrun\\pasting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65AFC4E8-9E0D-461B-AD2F-29E91E0E25C0}|GRT_BG1_V54\\GRT_BG1_V54.csproj|solutionrelative:grt_bg1_v54\\function\\dryrun\\pasting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65AFC4E8-9E0D-461B-AD2F-29E91E0E25C0}|GRT_BG1_V54\\GRT_BG1_V54.csproj|D:\\GitSubModule\\GRT_BG1_V54\\grt_bg1_v54\\function\\dryrun\\workingconveyor1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65AFC4E8-9E0D-461B-AD2F-29E91E0E25C0}|GRT_BG1_V54\\GRT_BG1_V54.csproj|solutionrelative:grt_bg1_v54\\function\\dryrun\\workingconveyor1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65AFC4E8-9E0D-461B-AD2F-29E91E0E25C0}|GRT_BG1_V54\\GRT_BG1_V54.csproj|D:\\GitSubModule\\GRT_BG1_V54\\grt_bg1_v54\\function\\dryrun\\workingconveyor2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65AFC4E8-9E0D-461B-AD2F-29E91E0E25C0}|GRT_BG1_V54\\GRT_BG1_V54.csproj|solutionrelative:grt_bg1_v54\\function\\dryrun\\workingconveyor2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65AFC4E8-9E0D-461B-AD2F-29E91E0E25C0}|GRT_BG1_V54\\GRT_BG1_V54.csproj|D:\\GitSubModule\\GRT_BG1_V54\\grt_bg1_v54\\function\\commonclass\\gantrysystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65AFC4E8-9E0D-461B-AD2F-29E91E0E25C0}|GRT_BG1_V54\\GRT_BG1_V54.csproj|solutionrelative:grt_bg1_v54\\function\\commonclass\\gantrysystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65AFC4E8-9E0D-461B-AD2F-29E91E0E25C0}|GRT_BG1_V54\\GRT_BG1_V54.csproj|D:\\GitSubModule\\GRT_BG1_V54\\grt_bg1_v54\\function\\commonclass\\feedersystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65AFC4E8-9E0D-461B-AD2F-29E91E0E25C0}|GRT_BG1_V54\\GRT_BG1_V54.csproj|solutionrelative:grt_bg1_v54\\function\\commonclass\\feedersystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65AFC4E8-9E0D-461B-AD2F-29E91E0E25C0}|GRT_BG1_V54\\GRT_BG1_V54.csproj|d:\\gitsubmodule\\grt_bg1_v54\\grt_bg1_v54\\function\\commonclass\\axismanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65AFC4E8-9E0D-461B-AD2F-29E91E0E25C0}|GRT_BG1_V54\\GRT_BG1_V54.csproj|solutionrelative:grt_bg1_v54\\function\\commonclass\\axismanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65AFC4E8-9E0D-461B-AD2F-29E91E0E25C0}|GRT_BG1_V54\\GRT_BG1_V54.csproj|D:\\GitSubModule\\GRT_BG1_V54\\grt_bg1_v54\\function\\commonclass\\visionsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65AFC4E8-9E0D-461B-AD2F-29E91E0E25C0}|GRT_BG1_V54\\GRT_BG1_V54.csproj|solutionrelative:grt_bg1_v54\\function\\commonclass\\visionsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65AFC4E8-9E0D-461B-AD2F-29E91E0E25C0}|GRT_BG1_V54\\GRT_BG1_V54.csproj|D:\\GitSubModule\\GRT_BG1_V54\\grt_bg1_v54\\function\\commonclass\\scannersystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65AFC4E8-9E0D-461B-AD2F-29E91E0E25C0}|GRT_BG1_V54\\GRT_BG1_V54.csproj|solutionrelative:grt_bg1_v54\\function\\commonclass\\scannersystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65AFC4E8-9E0D-461B-AD2F-29E91E0E25C0}|GRT_BG1_V54\\GRT_BG1_V54.csproj|D:\\GitSubModule\\GRT_BG1_V54\\grt_bg1_v54\\function\\commonclass\\iosystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65AFC4E8-9E0D-461B-AD2F-29E91E0E25C0}|GRT_BG1_V54\\GRT_BG1_V54.csproj|solutionrelative:grt_bg1_v54\\function\\commonclass\\iosystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65AFC4E8-9E0D-461B-AD2F-29E91E0E25C0}|GRT_BG1_V54\\GRT_BG1_V54.csproj|D:\\GitSubModule\\GRT_BG1_V54\\grt_bg1_v54\\function\\commonclass\\homing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65AFC4E8-9E0D-461B-AD2F-29E91E0E25C0}|GRT_BG1_V54\\GRT_BG1_V54.csproj|solutionrelative:grt_bg1_v54\\function\\commonclass\\homing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65AFC4E8-9E0D-461B-AD2F-29E91E0E25C0}|GRT_BG1_V54\\GRT_BG1_V54.csproj|D:\\GitSubModule\\GRT_BG1_V54\\grt_bg1_v54\\function\\commonclass\\conveyorsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65AFC4E8-9E0D-461B-AD2F-29E91E0E25C0}|GRT_BG1_V54\\GRT_BG1_V54.csproj|solutionrelative:grt_bg1_v54\\function\\commonclass\\conveyorsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65AFC4E8-9E0D-461B-AD2F-29E91E0E25C0}|GRT_BG1_V54\\GRT_BG1_V54.csproj|D:\\GitSubModule\\GRT_BG1_V54\\grt_bg1_v54\\function\\calibration\\calibrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65AFC4E8-9E0D-461B-AD2F-29E91E0E25C0}|GRT_BG1_V54\\GRT_BG1_V54.csproj|solutionrelative:grt_bg1_v54\\function\\calibration\\calibrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|D:\\GitSubModule\\GRT_BG1_V54\\masteruisource\\master\\commonclass\\cylinder_config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\commonclass\\cylinder_config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|D:\\GitSubModule\\GRT_BG1_V54\\masteruisource\\master\\commonclass\\objectlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\commonclass\\objectlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|D:\\GitSubModule\\GRT_BG1_V54\\masteruisource\\master\\commonclass\\dido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\commonclass\\dido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|D:\\GitSubModule\\GRT_BG1_V54\\masteruisource\\master\\uiforms\\manualscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\uiforms\\manualscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|d:\\gitsubmodule\\grt_bg1_v54\\masteruisource\\master\\commonclass\\globalvariable_machinespecific.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\masteruisource\\master\\commonclass\\globalvariable_machinespecific.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\commonclass\\globalvariable_machinespecific.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|d:\\gitsubmodule\\grt_bg1_v54\\masteruisource\\master\\commonclass\\globalvariable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\masteruisource\\master\\grt\\function\\autoseq\\loadingconveyor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\grt\\function\\autoseq\\loadingconveyor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|d:\\01_grt\\working_backup_dev\\new\\finle\\masteruisource\\master\\grt\\function\\autoseq\\workingconveyor2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\grt\\function\\autoseq\\workingconveyor2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\masteruisource\\master\\grt\\function\\autoseq\\workingconveyor1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\grt\\function\\autoseq\\workingconveyor1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\masteruisource\\master\\grt\\function\\commonclass\\homingcls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\grt\\function\\commonclass\\homingcls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\masteruisource\\master\\uiforms\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\uiforms\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\masteruisource\\master\\uiforms\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\uiforms\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\masteruisource\\master\\uiforms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\uiforms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\masteruisource\\master\\uiforms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\uiforms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\masteruisource\\master\\commonclass\\globalvariable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\commonclass\\globalvariable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|D:\\GitSubModule\\GRT_BG1_V54\\masteruisource\\master\\commonclass\\vaccum_config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\masteruisource\\master\\grt\\function\\commonclass\\gantrysystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\grt\\function\\commonclass\\gantrysystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\masteruisource\\master\\calibration\\staticdynamicseq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\calibration\\staticdynamicseq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\masteruisource\\master\\uiforms\\homescreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\uiforms\\homescreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\masteruisource\\master\\uiforms\\homescreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\uiforms\\homescreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\masteruisource\\master\\commonclass\\advantech_pcie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\commonclass\\advantech_pcie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\masteruisource\\master\\uiforms\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\uiforms\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\masteruisource\\master\\uiforms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\uiforms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\masteruisource\\master\\uiforms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\uiforms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\masteruisource\\master\\commonclass\\systemmonitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\commonclass\\systemmonitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\masteruisource\\master\\calibration\\setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\calibration\\setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\masteruisource\\master\\grt\\function\\commonclass\\scannersystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\grt\\function\\commonclass\\scannersystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\masteruisource\\master\\grt\\function\\commonclass\\visionsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\grt\\function\\commonclass\\visionsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\masteruisource\\master\\uiforms\\recipieform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\uiforms\\recipieform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\masteruisource\\master\\grt\\function\\commonclass\\allaxiesinitialpos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\grt\\function\\commonclass\\allaxiesinitialpos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\masteruisource\\master\\grt\\function\\startapp\\conveyorsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\grt\\function\\startapp\\conveyorsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\masteruisource\\master\\commonclass\\serial_communication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\commonclass\\serial_communication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\masteruisource\\master\\uiforms\\manualscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\uiforms\\manualscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\masteruisource\\master\\uiforms\\manualscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\uiforms\\manualscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\masteruisource\\master\\grt\\data\\dealy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\grt\\data\\dealy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\masteruisource\\master\\log\\logclass\\productiondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\log\\logclass\\productiondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\masteruisource\\master\\grt\\data\\palletdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\grt\\data\\palletdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\masteruisource\\master\\uiforms\\report_screen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\uiforms\\report_screen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\masteruisource\\master\\uiforms\\report_screen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\uiforms\\report_screen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\masteruisource\\master\\commonclass\\gridview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\commonclass\\gridview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\masteruisource\\master\\commonclass\\s_pdca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\commonclass\\s_pdca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\masteruisource\\master\\commonclass\\dido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\commonclass\\dido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\masteruisource\\master\\grt\\function\\autoseq\\feeding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\grt\\function\\autoseq\\feeding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\masteruisource\\master\\commonclass\\objectlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\commonclass\\objectlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\masteruisource\\master\\uiforms\\dynamicvaccum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\uiforms\\dynamicvaccum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\masteruisource\\master\\uiforms\\dynamiccylinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\uiforms\\dynamiccylinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\masteruisource\\master\\uiforms\\alarmscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\uiforms\\alarmscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\masteruisource\\master\\uiforms\\alarmpopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\uiforms\\alarmpopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\masteruisource\\master\\uiforms\\manualscreen.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\uiforms\\manualscreen.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\masteruisource\\master\\uiforms\\homescreen.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\uiforms\\homescreen.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\masteruisource\\master\\commonclass\\vaccum_config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\commonclass\\vaccum_config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\masteruisource\\master\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\masteruisource\\master\\commonclass\\io_stepper_config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\commonclass\\io_stepper_config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\masteruisource\\master\\commonclass\\cylinder_config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\commonclass\\cylinder_config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\masteruisource\\master\\grt\\data\\offset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\grt\\data\\offset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\masteruisource\\master\\grt\\data\\offsetk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\grt\\data\\offsetk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\masteruisource\\master\\grt\\data\\offsetnk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\grt\\data\\offsetnk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\masteruisource\\master\\grt\\function\\commonclass\\steppersystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\grt\\function\\commonclass\\steppersystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\masteruisource\\master\\grt\\data\\feeder_safe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\grt\\data\\feeder_safe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\masteruisource\\master\\grt\\data\\aeparameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\grt\\data\\aeparameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\masteruisource\\master\\commonclass\\rfreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\commonclass\\rfreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\masteruisource\\master\\uiforms\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\uiforms\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\AppData\\Local\\Temp\\.vsdbgsrc\\5e6c68b0f899e19491c12328defc0e0561fd0e9e0a2336949d89ac49c0ce43b0\\GlobalAutoSequenceExecutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\masteruisource\\master\\uiforms\\dynamiccylinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\uiforms\\dynamiccylinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\masteruisource\\master\\uiforms\\alarmscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\uiforms\\alarmscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\masteruisource\\master\\uiforms\\dynamicvaccum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C61CB6-3DCF-44FE-B7BE-6DD4662A794E}|MasterUIsource\\Master\\Master.csproj|solutionrelative:masteruisource\\master\\uiforms\\dynamicvaccum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
     {
-      "Orientation": 1,
+      "Orientation": 0,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedHeight": 200,
-          "SelectedChildIndex": 3,
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "AxisManager.cs",
-              "DocumentMoniker": "D:\\GitSubModule\\GRT_BG1_V54\\GRT_BG1_V54\\Function\\CommonClass\\AxisManager.cs",
-              "RelativeDocumentMoniker": "GRT_BG1_V54\\Function\\CommonClass\\AxisManager.cs",
-              "ToolTip": "D:\\GitSubModule\\GRT_BG1_V54\\GRT_BG1_V54\\Function\\CommonClass\\AxisManager.cs",
-              "RelativeToolTip": "GRT_BG1_V54\\Function\\CommonClass\\AxisManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T07:56:13.435Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "GlobalVariable_MachineSpecific.cs",
-              "DocumentMoniker": "D:\\GitSubModule\\GRT_BG1_V54\\MasterUIsource\\Master\\CommonClass\\GlobalVariable_MachineSpecific.cs",
-              "RelativeDocumentMoniker": "MasterUIsource\\Master\\CommonClass\\GlobalVariable_MachineSpecific.cs",
-              "ToolTip": "D:\\GitSubModule\\GRT_BG1_V54\\MasterUIsource\\Master\\CommonClass\\GlobalVariable_MachineSpecific.cs",
-              "RelativeToolTip": "MasterUIsource\\Master\\CommonClass\\GlobalVariable_MachineSpecific.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAswCEAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T06:01:27.71Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "ManualScreen.cs",
-              "DocumentMoniker": "D:\\GitSubModule\\GRT_BG1_V54\\MasterUIsource\\Master\\UIForms\\ManualScreen.cs",
-              "RelativeDocumentMoniker": "MasterUIsource\\Master\\UIForms\\ManualScreen.cs",
-              "ToolTip": "D:\\GitSubModule\\GRT_BG1_V54\\MasterUIsource\\Master\\UIForms\\ManualScreen.cs",
-              "RelativeToolTip": "MasterUIsource\\Master\\UIForms\\ManualScreen.cs",
-              "ViewState": "AgIAALIDAAAAAAAAAAAswFsFAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T06:39:28.055Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "StaticDynamic.cs",
-              "DocumentMoniker": "D:\\GitSubModule\\GRT_BG1_V54\\GRT_BG1_V54\\Function\\Calibration\\StaticDynamic.cs",
-              "RelativeDocumentMoniker": "GRT_BG1_V54\\Function\\Calibration\\StaticDynamic.cs",
-              "ToolTip": "D:\\GitSubModule\\GRT_BG1_V54\\GRT_BG1_V54\\Function\\Calibration\\StaticDynamic.cs",
-              "RelativeToolTip": "GRT_BG1_V54\\Function\\Calibration\\StaticDynamic.cs",
-              "ViewState": "AgIAAMMAAAAAAAAAAAAowPYAAAAsAQAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T06:03:17.81Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "Vaccum_config.cs",
-              "DocumentMoniker": "D:\\GitSubModule\\GRT_BG1_V54\\MasterUIsource\\Master\\CommonClass\\Vaccum_config.cs",
-              "RelativeDocumentMoniker": "MasterUIsource\\Master\\CommonClass\\Vaccum_config.cs",
-              "ToolTip": "D:\\GitSubModule\\GRT_BG1_V54\\MasterUIsource\\Master\\CommonClass\\Vaccum_config.cs",
-              "RelativeToolTip": "MasterUIsource\\Master\\CommonClass\\Vaccum_config.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAMwDoAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T05:59:17.708Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Homing.cs",
-              "DocumentMoniker": "D:\\GitSubModule\\GRT_BG1_V54\\GRT_BG1_V54\\Function\\CommonClass\\Homing.cs",
-              "RelativeDocumentMoniker": "GRT_BG1_V54\\Function\\CommonClass\\Homing.cs",
-              "ToolTip": "D:\\GitSubModule\\GRT_BG1_V54\\GRT_BG1_V54\\Function\\CommonClass\\Homing.cs",
-              "RelativeToolTip": "GRT_BG1_V54\\Function\\CommonClass\\Homing.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T05:51:43.293Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "IOSystem.cs",
-              "DocumentMoniker": "D:\\GitSubModule\\GRT_BG1_V54\\GRT_BG1_V54\\Function\\CommonClass\\IOSystem.cs",
-              "RelativeDocumentMoniker": "GRT_BG1_V54\\Function\\CommonClass\\IOSystem.cs",
-              "ToolTip": "D:\\GitSubModule\\GRT_BG1_V54\\GRT_BG1_V54\\Function\\CommonClass\\IOSystem.cs",
-              "RelativeToolTip": "GRT_BG1_V54\\Function\\CommonClass\\IOSystem.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T05:51:40.247Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ScannerSystem.cs",
-              "DocumentMoniker": "D:\\GitSubModule\\GRT_BG1_V54\\GRT_BG1_V54\\Function\\CommonClass\\ScannerSystem.cs",
-              "RelativeDocumentMoniker": "GRT_BG1_V54\\Function\\CommonClass\\ScannerSystem.cs",
-              "ToolTip": "D:\\GitSubModule\\GRT_BG1_V54\\GRT_BG1_V54\\Function\\CommonClass\\ScannerSystem.cs",
-              "RelativeToolTip": "GRT_BG1_V54\\Function\\CommonClass\\ScannerSystem.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T05:51:33.125Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "CalibrationController.cs",
-              "DocumentMoniker": "D:\\GitSubModule\\GRT_BG1_V54\\GRT_BG1_V54\\Function\\Calibration\\CalibrationController.cs",
-              "RelativeDocumentMoniker": "GRT_BG1_V54\\Function\\Calibration\\CalibrationController.cs",
-              "ToolTip": "D:\\GitSubModule\\GRT_BG1_V54\\GRT_BG1_V54\\Function\\Calibration\\CalibrationController.cs",
-              "RelativeToolTip": "GRT_BG1_V54\\Function\\Calibration\\CalibrationController.cs",
-              "ViewState": "AgIAAGkAAAAAAAAAAAAowFkAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T05:51:10.462Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Feeding.cs",
-              "DocumentMoniker": "D:\\GitSubModule\\GRT_BG1_V54\\GRT_BG1_V54\\Function\\Production\\Feeding.cs",
-              "RelativeDocumentMoniker": "GRT_BG1_V54\\Function\\Production\\Feeding.cs",
-              "ToolTip": "D:\\GitSubModule\\GRT_BG1_V54\\GRT_BG1_V54\\Function\\Production\\Feeding.cs",
-              "RelativeToolTip": "GRT_BG1_V54\\Function\\Production\\Feeding.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-27T13:05:10.77Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Feeding.cs",
-              "DocumentMoniker": "D:\\GitSubModule\\GRT_BG1_V54\\GRT_BG1_V54\\Function\\DryRun\\Feeding.cs",
-              "RelativeDocumentMoniker": "GRT_BG1_V54\\Function\\DryRun\\Feeding.cs",
-              "ToolTip": "D:\\GitSubModule\\GRT_BG1_V54\\GRT_BG1_V54\\Function\\DryRun\\Feeding.cs",
-              "RelativeToolTip": "GRT_BG1_V54\\Function\\DryRun\\Feeding.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAALAQAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-27T13:03:49.337Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "WorkingConveyor2.cs",
-              "DocumentMoniker": "D:\\GitSubModule\\GRT_BG1_V54\\GRT_BG1_V54\\Function\\DryRun\\WorkingConveyor2.cs",
-              "RelativeDocumentMoniker": "GRT_BG1_V54\\Function\\DryRun\\WorkingConveyor2.cs",
-              "ToolTip": "D:\\GitSubModule\\GRT_BG1_V54\\GRT_BG1_V54\\Function\\DryRun\\WorkingConveyor2.cs",
-              "RelativeToolTip": "GRT_BG1_V54\\Function\\DryRun\\WorkingConveyor2.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGMAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-27T13:02:08.894Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "WorkingConveyor1.cs",
-              "DocumentMoniker": "D:\\GitSubModule\\GRT_BG1_V54\\GRT_BG1_V54\\Function\\DryRun\\WorkingConveyor1.cs",
-              "RelativeDocumentMoniker": "GRT_BG1_V54\\Function\\DryRun\\WorkingConveyor1.cs",
-              "ToolTip": "D:\\GitSubModule\\GRT_BG1_V54\\GRT_BG1_V54\\Function\\DryRun\\WorkingConveyor1.cs",
-              "RelativeToolTip": "GRT_BG1_V54\\Function\\DryRun\\WorkingConveyor1.cs",
-              "ViewState": "AgIAAHUAAAAAAAAAAAAowH0AAAARAQAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-27T13:01:59.86Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Cylinder_config.cs",
-              "DocumentMoniker": "D:\\GitSubModule\\GRT_BG1_V54\\MasterUIsource\\Master\\CommonClass\\Cylinder_config.cs",
-              "RelativeDocumentMoniker": "MasterUIsource\\Master\\CommonClass\\Cylinder_config.cs",
-              "ToolTip": "D:\\GitSubModule\\GRT_BG1_V54\\MasterUIsource\\Master\\CommonClass\\Cylinder_config.cs",
-              "RelativeToolTip": "MasterUIsource\\Master\\CommonClass\\Cylinder_config.cs",
-              "ViewState": "AgIAAIYAAAAAAAAAAAAgwCIAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-27T12:59:48.847Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "ObjectList.cs",
-              "DocumentMoniker": "D:\\GitSubModule\\GRT_BG1_V54\\MasterUIsource\\Master\\CommonClass\\ObjectList.cs",
-              "RelativeDocumentMoniker": "MasterUIsource\\Master\\CommonClass\\ObjectList.cs",
-              "ToolTip": "D:\\GitSubModule\\GRT_BG1_V54\\MasterUIsource\\Master\\CommonClass\\ObjectList.cs",
-              "RelativeToolTip": "MasterUIsource\\Master\\CommonClass\\ObjectList.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAjwBsAAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-27T12:57:19.627Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "ConveyorSystem.cs",
-              "DocumentMoniker": "D:\\GitSubModule\\GRT_BG1_V54\\GRT_BG1_V54\\Function\\CommonClass\\ConveyorSystem.cs",
-              "RelativeDocumentMoniker": "GRT_BG1_V54\\Function\\CommonClass\\ConveyorSystem.cs",
-              "ToolTip": "D:\\GitSubModule\\GRT_BG1_V54\\GRT_BG1_V54\\Function\\CommonClass\\ConveyorSystem.cs",
-              "RelativeToolTip": "GRT_BG1_V54\\Function\\CommonClass\\ConveyorSystem.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAAAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-27T12:51:38.361Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Pasting.cs",
-              "DocumentMoniker": "D:\\GitSubModule\\GRT_BG1_V54\\GRT_BG1_V54\\Function\\DryRun\\Pasting.cs",
-              "RelativeDocumentMoniker": "GRT_BG1_V54\\Function\\DryRun\\Pasting.cs",
-              "ToolTip": "D:\\GitSubModule\\GRT_BG1_V54\\GRT_BG1_V54\\Function\\DryRun\\Pasting.cs",
-              "RelativeToolTip": "GRT_BG1_V54\\Function\\DryRun\\Pasting.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAQwCQAAAASAQAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-27T11:57:57.951Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "DIDO.cs",
-              "DocumentMoniker": "D:\\GitSubModule\\GRT_BG1_V54\\MasterUIsource\\Master\\CommonClass\\DIDO.cs",
-              "RelativeDocumentMoniker": "MasterUIsource\\Master\\CommonClass\\DIDO.cs",
-              "ToolTip": "D:\\GitSubModule\\GRT_BG1_V54\\MasterUIsource\\Master\\CommonClass\\DIDO.cs",
-              "RelativeToolTip": "MasterUIsource\\Master\\CommonClass\\DIDO.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAA7wEMAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-27T11:50:31.168Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "LoadingConveyor.cs",
-              "DocumentMoniker": "D:\\GitSubModule\\GRT_BG1_V54\\GRT_BG1_V54\\Function\\DryRun\\LoadingConveyor.cs",
-              "RelativeDocumentMoniker": "GRT_BG1_V54\\Function\\DryRun\\LoadingConveyor.cs",
-              "ToolTip": "D:\\GitSubModule\\GRT_BG1_V54\\GRT_BG1_V54\\Function\\DryRun\\LoadingConveyor.cs",
-              "RelativeToolTip": "GRT_BG1_V54\\Function\\DryRun\\LoadingConveyor.cs",
-              "ViewState": "AgIAAG0AAAAAAAAAAAAgwH4AAAAVAQAAAAAAAA==",
+              "DocumentMoniker": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\GRT\\Function\\AutoSeq\\LoadingConveyor.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\GRT\\Function\\AutoSeq\\LoadingConveyor.cs",
+              "ToolTip": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\GRT\\Function\\AutoSeq\\LoadingConveyor.cs",
+              "RelativeToolTip": "MasterUIsource\\Master\\GRT\\Function\\AutoSeq\\LoadingConveyor.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAcwFwAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-27T11:45:52.319Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "GlobalVariable.cs",
-              "DocumentMoniker": "D:\\GitSubModule\\GRT_BG1_V54\\MasterUIsource\\Master\\CommonClass\\GlobalVariable.cs",
-              "RelativeDocumentMoniker": "MasterUIsource\\Master\\CommonClass\\GlobalVariable.cs",
-              "ToolTip": "D:\\GitSubModule\\GRT_BG1_V54\\MasterUIsource\\Master\\CommonClass\\GlobalVariable.cs",
-              "RelativeToolTip": "MasterUIsource\\Master\\CommonClass\\GlobalVariable.cs",
-              "ViewState": "AgIAAGoAAAAAAAAAAAAgwEcCAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-27T11:37:40.197Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "NozzleSystem.cs",
-              "DocumentMoniker": "D:\\GitSubModule\\GRT_BG1_V54\\GRT_BG1_V54\\Function\\CommonClass\\NozzleSystem.cs",
-              "RelativeDocumentMoniker": "GRT_BG1_V54\\Function\\CommonClass\\NozzleSystem.cs",
-              "ToolTip": "D:\\GitSubModule\\GRT_BG1_V54\\GRT_BG1_V54\\Function\\CommonClass\\NozzleSystem.cs",
-              "RelativeToolTip": "GRT_BG1_V54\\Function\\CommonClass\\NozzleSystem.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwAQAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T10:45:46.569Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "VisionSystem.cs",
-              "DocumentMoniker": "D:\\GitSubModule\\GRT_BG1_V54\\GRT_BG1_V54\\Function\\CommonClass\\VisionSystem.cs",
-              "RelativeDocumentMoniker": "GRT_BG1_V54\\Function\\CommonClass\\VisionSystem.cs",
-              "ToolTip": "D:\\GitSubModule\\GRT_BG1_V54\\GRT_BG1_V54\\Function\\CommonClass\\VisionSystem.cs",
-              "RelativeToolTip": "GRT_BG1_V54\\Function\\CommonClass\\VisionSystem.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T10:38:58.7Z",
+              "WhenOpened": "2026-09-12T17:50:42.291Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Pasting.cs",
-              "DocumentMoniker": "D:\\GitSubModule\\GRT_BG1_V54\\GRT_BG1_V54\\Function\\Production\\Pasting.cs",
-              "RelativeDocumentMoniker": "GRT_BG1_V54\\Function\\Production\\Pasting.cs",
-              "ToolTip": "D:\\GitSubModule\\GRT_BG1_V54\\GRT_BG1_V54\\Function\\Production\\Pasting.cs",
-              "RelativeToolTip": "GRT_BG1_V54\\Function\\Production\\Pasting.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAQwBoAAAAJAAAAAAAAAA==",
+              "Title": "WorkingConveyor1.cs",
+              "DocumentMoniker": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\GRT\\Function\\AutoSeq\\WorkingConveyor1.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\GRT\\Function\\AutoSeq\\WorkingConveyor1.cs",
+              "ToolTip": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\GRT\\Function\\AutoSeq\\WorkingConveyor1.cs",
+              "RelativeToolTip": "MasterUIsource\\Master\\GRT\\Function\\AutoSeq\\WorkingConveyor1.cs",
+              "ViewState": "AgIAAC8BAAAAAAAAAAAkwEgBAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T10:38:53.264Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "WorkingConveyor2.cs",
-              "DocumentMoniker": "D:\\GitSubModule\\GRT_BG1_V54\\GRT_BG1_V54\\Function\\Production\\WorkingConveyor2.cs",
-              "RelativeDocumentMoniker": "GRT_BG1_V54\\Function\\Production\\WorkingConveyor2.cs",
-              "ToolTip": "D:\\GitSubModule\\GRT_BG1_V54\\GRT_BG1_V54\\Function\\Production\\WorkingConveyor2.cs",
-              "RelativeToolTip": "GRT_BG1_V54\\Function\\Production\\WorkingConveyor2.cs",
-              "ViewState": "AgIAAEkAAAAAAAAAAAAiwFsAAAAoAQAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T10:38:37.03Z",
+              "WhenOpened": "2026-09-05T17:45:33.964Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "WorkingConveyor1.cs",
-              "DocumentMoniker": "D:\\GitSubModule\\GRT_BG1_V54\\GRT_BG1_V54\\Function\\Production\\WorkingConveyor1.cs",
-              "RelativeDocumentMoniker": "GRT_BG1_V54\\Function\\Production\\WorkingConveyor1.cs",
-              "ToolTip": "D:\\GitSubModule\\GRT_BG1_V54\\GRT_BG1_V54\\Function\\Production\\WorkingConveyor1.cs",
-              "RelativeToolTip": "GRT_BG1_V54\\Function\\Production\\WorkingConveyor1.cs",
-              "ViewState": "AgIAAHwAAAAAAAAAAAAgwI0AAAAAAAAAAAAAAA==",
+              "Title": "WorkingConveyor2.cs",
+              "DocumentMoniker": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\GRT\\Function\\AutoSeq\\WorkingConveyor2.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\GRT\\Function\\AutoSeq\\WorkingConveyor2.cs",
+              "ToolTip": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\GRT\\Function\\AutoSeq\\WorkingConveyor2.cs",
+              "RelativeToolTip": "MasterUIsource\\Master\\GRT\\Function\\AutoSeq\\WorkingConveyor2.cs",
+              "ViewState": "AgIAAP4AAAAAAAAAAAAIwI8BAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T10:21:52.958Z",
+              "WhenOpened": "2026-09-09T16:08:45.751Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "FeederSystem.cs",
-              "DocumentMoniker": "D:\\GitSubModule\\GRT_BG1_V54\\GRT_BG1_V54\\Function\\CommonClass\\FeederSystem.cs",
-              "RelativeDocumentMoniker": "GRT_BG1_V54\\Function\\CommonClass\\FeederSystem.cs",
-              "ToolTip": "D:\\GitSubModule\\GRT_BG1_V54\\GRT_BG1_V54\\Function\\CommonClass\\FeederSystem.cs",
-              "RelativeToolTip": "GRT_BG1_V54\\Function\\CommonClass\\FeederSystem.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwAEAAAAjAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "GlobalVariable.cs",
+              "DocumentMoniker": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\CommonClass\\GlobalVariable.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\CommonClass\\GlobalVariable.cs",
+              "ToolTip": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\CommonClass\\GlobalVariable.cs",
+              "RelativeToolTip": "MasterUIsource\\Master\\CommonClass\\GlobalVariable.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAmwCkAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T05:54:53.028Z",
+              "WhenOpened": "2026-09-07T15:48:20.692Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SystemMonitor.cs",
+              "DocumentMoniker": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\CommonClass\\SystemMonitor.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\CommonClass\\SystemMonitor.cs",
+              "ToolTip": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\CommonClass\\SystemMonitor.cs",
+              "RelativeToolTip": "MasterUIsource\\Master\\CommonClass\\SystemMonitor.cs",
+              "ViewState": "AgIAAPgAAAAAAAAAAAAvwAMBAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T14:32:50.365Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeScreen.cs",
+              "DocumentMoniker": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\UIForms\\HomeScreen.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\UIForms\\HomeScreen.cs",
+              "ToolTip": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\UIForms\\HomeScreen.cs",
+              "RelativeToolTip": "MasterUIsource\\Master\\UIForms\\HomeScreen.cs",
+              "ViewState": "AgIAABsFAAAAAAAAAAAcwDUFAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T14:44:46.597Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GlobalVariable_MachineSpecific.cs",
+              "DocumentMoniker": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\CommonClass\\GlobalVariable_MachineSpecific.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\CommonClass\\GlobalVariable_MachineSpecific.cs",
+              "ToolTip": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\CommonClass\\GlobalVariable_MachineSpecific.cs",
+              "RelativeToolTip": "MasterUIsource\\Master\\CommonClass\\GlobalVariable_MachineSpecific.cs",
+              "ViewState": "AgIAAC4CAAAAAAAAAAAswE4DAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T16:32:00.327Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "LoadingConveyor.cs",
-              "DocumentMoniker": "D:\\GitSubModule\\GRT_BG1_V54\\GRT_BG1_V54\\Function\\Production\\LoadingConveyor.cs",
-              "RelativeDocumentMoniker": "GRT_BG1_V54\\Function\\Production\\LoadingConveyor.cs",
-              "ToolTip": "D:\\GitSubModule\\GRT_BG1_V54\\GRT_BG1_V54\\Function\\Production\\LoadingConveyor.cs",
-              "RelativeToolTip": "GRT_BG1_V54\\Function\\Production\\LoadingConveyor.cs",
-              "ViewState": "AgIAAFIAAAAAAAAAAAAgwKsAAAAVAQAAAAAAAA==",
+              "Title": "Homingcls.cs",
+              "DocumentMoniker": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\GRT\\Function\\CommonClass\\Homingcls.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\GRT\\Function\\CommonClass\\Homingcls.cs",
+              "ToolTip": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\GRT\\Function\\CommonClass\\Homingcls.cs",
+              "RelativeToolTip": "MasterUIsource\\Master\\GRT\\Function\\CommonClass\\Homingcls.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAmwIoAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T11:39:41.639Z",
+              "WhenOpened": "2026-09-09T16:06:53.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Settings.cs",
+              "DocumentMoniker": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\UIForms\\Settings.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\UIForms\\Settings.cs",
+              "ToolTip": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\UIForms\\Settings.cs",
+              "RelativeToolTip": "MasterUIsource\\Master\\UIForms\\Settings.cs",
+              "ViewState": "AgIAANIBAAAAAAAAAAAswOUBAACaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T20:49:39.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Settings.cs [Design]",
+              "DocumentMoniker": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\UIForms\\Settings.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\UIForms\\Settings.cs",
+              "ToolTip": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\UIForms\\Settings.cs [Design]",
+              "RelativeToolTip": "MasterUIsource\\Master\\UIForms\\Settings.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T20:46:03.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\UIForms\\Login.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\UIForms\\Login.cs",
+              "ToolTip": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\UIForms\\Login.cs",
+              "RelativeToolTip": "MasterUIsource\\Master\\UIForms\\Login.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAIwHQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T16:23:51.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\UIForms\\Login.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\UIForms\\Login.cs",
+              "ToolTip": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\UIForms\\Login.cs [Design]",
+              "RelativeToolTip": "MasterUIsource\\Master\\UIForms\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T17:52:02.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GantrySystem.cs",
+              "DocumentMoniker": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\GRT\\Function\\CommonClass\\GantrySystem.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\GRT\\Function\\CommonClass\\GantrySystem.cs",
+              "ToolTip": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\GRT\\Function\\CommonClass\\GantrySystem.cs",
+              "RelativeToolTip": "MasterUIsource\\Master\\GRT\\Function\\CommonClass\\GantrySystem.cs",
+              "ViewState": "AgIAAJcCAAAAAAAAAAAmwKICAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T14:47:47.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StaticDynamicSeq.cs",
+              "DocumentMoniker": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\calibration\\StaticDynamicSeq.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\calibration\\StaticDynamicSeq.cs",
+              "ToolTip": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\calibration\\StaticDynamicSeq.cs",
+              "RelativeToolTip": "MasterUIsource\\Master\\calibration\\StaticDynamicSeq.cs",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAmwJoAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T09:02:15.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HomeScreen.cs [Design]",
+              "DocumentMoniker": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\UIForms\\HomeScreen.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\UIForms\\HomeScreen.cs",
+              "ToolTip": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\UIForms\\HomeScreen.cs [Design]",
+              "RelativeToolTip": "MasterUIsource\\Master\\UIForms\\HomeScreen.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T14:35:33.506Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Advantech_PCIE.cs",
+              "DocumentMoniker": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\CommonClass\\Advantech_PCIE.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\CommonClass\\Advantech_PCIE.cs",
+              "ToolTip": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\CommonClass\\Advantech_PCIE.cs",
+              "RelativeToolTip": "MasterUIsource\\Master\\CommonClass\\Advantech_PCIE.cs",
+              "ViewState": "AgIAAFIGAAAAAAAAAAAcwGUGAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T18:22:30.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Settings.Designer.cs",
+              "DocumentMoniker": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\UIForms\\Settings.Designer.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\UIForms\\Settings.Designer.cs",
+              "ToolTip": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\UIForms\\Settings.Designer.cs",
+              "RelativeToolTip": "MasterUIsource\\Master\\UIForms\\Settings.Designer.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAABoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T14:37:03.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\UIForms\\MainForm.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\UIForms\\MainForm.cs",
+              "ToolTip": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\UIForms\\MainForm.cs [Design]",
+              "RelativeToolTip": "MasterUIsource\\Master\\UIForms\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T18:38:29.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\UIForms\\MainForm.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\UIForms\\MainForm.cs",
+              "ToolTip": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\UIForms\\MainForm.cs",
+              "RelativeToolTip": "MasterUIsource\\Master\\UIForms\\MainForm.cs",
+              "ViewState": "AgIAAGcCAAAAAAAAAAAIwHoCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T16:39:37.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Setting.cs",
+              "DocumentMoniker": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\calibration\\Setting.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\calibration\\Setting.cs",
+              "ToolTip": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\calibration\\Setting.cs",
+              "RelativeToolTip": "MasterUIsource\\Master\\calibration\\Setting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T10:02:50.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ScannerSystem.cs",
+              "DocumentMoniker": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\GRT\\Function\\CommonClass\\ScannerSystem.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\GRT\\Function\\CommonClass\\ScannerSystem.cs",
+              "ToolTip": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\GRT\\Function\\CommonClass\\ScannerSystem.cs",
+              "RelativeToolTip": "MasterUIsource\\Master\\GRT\\Function\\CommonClass\\ScannerSystem.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAIAywB4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T20:39:53.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "VisionSystem.cs",
+              "DocumentMoniker": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\GRT\\Function\\CommonClass\\VisionSystem.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\GRT\\Function\\CommonClass\\VisionSystem.cs",
+              "ToolTip": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\GRT\\Function\\CommonClass\\VisionSystem.cs",
+              "RelativeToolTip": "MasterUIsource\\Master\\GRT\\Function\\CommonClass\\VisionSystem.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T09:51:41.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RecipieForm.cs",
+              "DocumentMoniker": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\UIForms\\RecipieForm.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\UIForms\\RecipieForm.cs",
+              "ToolTip": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\UIForms\\RecipieForm.cs",
+              "RelativeToolTip": "MasterUIsource\\Master\\UIForms\\RecipieForm.cs",
+              "ViewState": "AgIAANQBAAAAAAAAAAAEwN8BAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T16:46:06.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AllAxiesInitialPos.cs",
+              "DocumentMoniker": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\GRT\\Function\\CommonClass\\AllAxiesInitialPos.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\GRT\\Function\\CommonClass\\AllAxiesInitialPos.cs",
+              "ToolTip": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\GRT\\Function\\CommonClass\\AllAxiesInitialPos.cs",
+              "RelativeToolTip": "MasterUIsource\\Master\\GRT\\Function\\CommonClass\\AllAxiesInitialPos.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T16:10:34.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ConveyorSystem.cs",
+              "DocumentMoniker": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\GRT\\Function\\StartApp\\ConveyorSystem.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\GRT\\Function\\StartApp\\ConveyorSystem.cs",
+              "ToolTip": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\GRT\\Function\\StartApp\\ConveyorSystem.cs",
+              "RelativeToolTip": "MasterUIsource\\Master\\GRT\\Function\\StartApp\\ConveyorSystem.cs",
+              "ViewState": "AgIAAOYAAAAAAAAAAAAcwOsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T15:39:51.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Serial_Communication.cs",
+              "DocumentMoniker": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\CommonClass\\Serial_Communication.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\CommonClass\\Serial_Communication.cs",
+              "ToolTip": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\CommonClass\\Serial_Communication.cs",
+              "RelativeToolTip": "MasterUIsource\\Master\\CommonClass\\Serial_Communication.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAUwHgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T16:00:37.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ManualScreen.cs",
+              "DocumentMoniker": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\UIForms\\ManualScreen.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\UIForms\\ManualScreen.cs",
+              "ToolTip": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\UIForms\\ManualScreen.cs",
+              "RelativeToolTip": "MasterUIsource\\Master\\UIForms\\ManualScreen.cs",
+              "ViewState": "AgIAAEQCAAAAAAAAAAAcwFwCAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T16:44:41.446Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "GantrySystem.cs",
-              "DocumentMoniker": "D:\\GitSubModule\\GRT_BG1_V54\\GRT_BG1_V54\\Function\\CommonClass\\GantrySystem.cs",
-              "RelativeDocumentMoniker": "GRT_BG1_V54\\Function\\CommonClass\\GantrySystem.cs",
-              "ToolTip": "D:\\GitSubModule\\GRT_BG1_V54\\GRT_BG1_V54\\Function\\CommonClass\\GantrySystem.cs",
-              "RelativeToolTip": "GRT_BG1_V54\\Function\\CommonClass\\GantrySystem.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAgwGEAAAAAAQAAAAAAAA==",
+              "DocumentIndex": 27,
+              "Title": "ManualScreen.cs [Design]",
+              "DocumentMoniker": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\UIForms\\ManualScreen.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\UIForms\\ManualScreen.cs",
+              "ToolTip": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\UIForms\\ManualScreen.cs [Design]",
+              "RelativeToolTip": "MasterUIsource\\Master\\UIForms\\ManualScreen.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T11:17:28.351Z",
+              "WhenOpened": "2026-09-25T19:09:53.638Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DEALY.cs",
+              "DocumentMoniker": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\GRT\\Data\\DEALY.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\GRT\\Data\\DEALY.cs",
+              "ToolTip": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\GRT\\Data\\DEALY.cs",
+              "RelativeToolTip": "MasterUIsource\\Master\\GRT\\Data\\DEALY.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T19:03:00.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ProductionData.cs",
+              "DocumentMoniker": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\Log\\LogClass\\ProductionData.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\Log\\LogClass\\ProductionData.cs",
+              "ToolTip": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\Log\\LogClass\\ProductionData.cs",
+              "RelativeToolTip": "MasterUIsource\\Master\\Log\\LogClass\\ProductionData.cs",
+              "ViewState": "AgIAAHQCAAAAAAAAAAAhwIYCAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T09:15:17.65Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "PalletData.cs",
+              "DocumentMoniker": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\GRT\\Data\\PalletData.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\GRT\\Data\\PalletData.cs",
+              "ToolTip": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\GRT\\Data\\PalletData.cs",
+              "RelativeToolTip": "MasterUIsource\\Master\\GRT\\Data\\PalletData.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAIA8wCMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T19:00:52.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Report_Screen.cs [Design]",
+              "DocumentMoniker": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\UIForms\\Report_Screen.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\UIForms\\Report_Screen.cs",
+              "ToolTip": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\UIForms\\Report_Screen.cs [Design]",
+              "RelativeToolTip": "MasterUIsource\\Master\\UIForms\\Report_Screen.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T10:23:45.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Report_Screen.cs",
+              "DocumentMoniker": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\UIForms\\Report_Screen.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\UIForms\\Report_Screen.cs",
+              "ToolTip": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\UIForms\\Report_Screen.cs",
+              "RelativeToolTip": "MasterUIsource\\Master\\UIForms\\Report_Screen.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAArwE8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T10:23:47.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "GridView.cs",
+              "DocumentMoniker": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\CommonClass\\GridView.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\CommonClass\\GridView.cs",
+              "ToolTip": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\CommonClass\\GridView.cs",
+              "RelativeToolTip": "MasterUIsource\\Master\\CommonClass\\GridView.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwCkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T10:10:02.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "S_Pdca.cs",
+              "DocumentMoniker": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\CommonClass\\S_Pdca.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\CommonClass\\S_Pdca.cs",
+              "ToolTip": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\CommonClass\\S_Pdca.cs",
+              "RelativeToolTip": "MasterUIsource\\Master\\CommonClass\\S_Pdca.cs",
+              "ViewState": "AgIAAFUBAAAAAAAAAAAhwGsBAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-26T11:40:33.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "DIDO.cs",
+              "DocumentMoniker": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\CommonClass\\DIDO.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\CommonClass\\DIDO.cs",
+              "ToolTip": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\CommonClass\\DIDO.cs",
+              "RelativeToolTip": "MasterUIsource\\Master\\CommonClass\\DIDO.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAhwHAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T19:11:01.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Feeding.cs",
+              "DocumentMoniker": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\GRT\\Function\\AutoSeq\\Feeding.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\GRT\\Function\\AutoSeq\\Feeding.cs",
+              "ToolTip": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\GRT\\Function\\AutoSeq\\Feeding.cs",
+              "RelativeToolTip": "MasterUIsource\\Master\\GRT\\Function\\AutoSeq\\Feeding.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAlwCcAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-26T18:12:58.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ObjectList.cs",
+              "DocumentMoniker": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\CommonClass\\ObjectList.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\CommonClass\\ObjectList.cs",
+              "ToolTip": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\CommonClass\\ObjectList.cs",
+              "RelativeToolTip": "MasterUIsource\\Master\\CommonClass\\ObjectList.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAgwE4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T19:11:29.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "DynamicVaccum.cs [Design]",
+              "DocumentMoniker": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\UIForms\\DynamicVaccum.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\UIForms\\DynamicVaccum.cs",
+              "ToolTip": "D:\\1_GRT\\5_Don\u0027t Use\\Line 2 Command Move and Past Completed\\BOT-GRT_LINE 1 RETRO V57 _V1.8\\MasterUIsource\\Master\\UIForms\\DynamicVaccum.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\1_GRT\\5_Don\u0027t Use\\Line 2 Command Move and Past Completed\\BOT-GRT_LINE 1 RETRO V57 _V1.8\\MasterUIsource\\Master\\UIForms\\DynamicVaccum.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-26T18:52:45.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "DynamicCylinder.cs [Design]",
+              "DocumentMoniker": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\UIForms\\DynamicCylinder.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\UIForms\\DynamicCylinder.cs",
+              "ToolTip": "D:\\1_GRT\\5_Don\u0027t Use\\Line 2 Command Move and Past Completed\\BOT-GRT_LINE 1 RETRO V57 _V1.8\\MasterUIsource\\Master\\UIForms\\DynamicCylinder.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\1_GRT\\5_Don\u0027t Use\\Line 2 Command Move and Past Completed\\BOT-GRT_LINE 1 RETRO V57 _V1.8\\MasterUIsource\\Master\\UIForms\\DynamicCylinder.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-26T18:52:44.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "AlarmScreen.cs [Design]",
+              "DocumentMoniker": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\UIForms\\AlarmScreen.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\UIForms\\AlarmScreen.cs",
+              "ToolTip": "D:\\1_GRT\\5_Don\u0027t Use\\Line 2 Command Move and Past Completed\\BOT-GRT_LINE 1 RETRO V57 _V1.8\\MasterUIsource\\Master\\UIForms\\AlarmScreen.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\1_GRT\\5_Don\u0027t Use\\Line 2 Command Move and Past Completed\\BOT-GRT_LINE 1 RETRO V57 _V1.8\\MasterUIsource\\Master\\UIForms\\AlarmScreen.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-26T18:52:43.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "AlarmPopup.cs [Design]",
+              "DocumentMoniker": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\UIForms\\AlarmPopup.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\UIForms\\AlarmPopup.cs",
+              "ToolTip": "D:\\1_GRT\\5_Don\u0027t Use\\Line 2 Command Move and Past Completed\\BOT-GRT_LINE 1 RETRO V57 _V1.8\\MasterUIsource\\Master\\UIForms\\AlarmPopup.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\1_GRT\\5_Don\u0027t Use\\Line 2 Command Move and Past Completed\\BOT-GRT_LINE 1 RETRO V57 _V1.8\\MasterUIsource\\Master\\UIForms\\AlarmPopup.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-26T18:52:42.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ManualScreen.Designer.cs",
+              "DocumentMoniker": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\UIForms\\ManualScreen.Designer.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\UIForms\\ManualScreen.Designer.cs",
+              "ToolTip": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\UIForms\\ManualScreen.Designer.cs",
+              "RelativeToolTip": "MasterUIsource\\Master\\UIForms\\ManualScreen.Designer.cs",
+              "ViewState": "AgIAAOksAAAAAAAAAAAawOssAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T19:10:21.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "HomeScreen.Designer.cs",
+              "DocumentMoniker": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\UIForms\\HomeScreen.Designer.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\UIForms\\HomeScreen.Designer.cs",
+              "ToolTip": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\UIForms\\HomeScreen.Designer.cs",
+              "RelativeToolTip": "MasterUIsource\\Master\\UIForms\\HomeScreen.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-26T19:07:00.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Vaccum_config.cs",
+              "DocumentMoniker": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\CommonClass\\Vaccum_config.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\CommonClass\\Vaccum_config.cs",
+              "ToolTip": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\CommonClass\\Vaccum_config.cs",
+              "RelativeToolTip": "MasterUIsource\\Master\\CommonClass\\Vaccum_config.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAUwHAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T16:07:13.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\Program.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\Program.cs",
+              "ToolTip": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\Program.cs",
+              "RelativeToolTip": "MasterUIsource\\Master\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAcwDcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T16:10:40.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "IO_Stepper_Config.cs",
+              "DocumentMoniker": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\CommonClass\\IO_Stepper_Config.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\CommonClass\\IO_Stepper_Config.cs",
+              "ToolTip": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\CommonClass\\IO_Stepper_Config.cs",
+              "RelativeToolTip": "MasterUIsource\\Master\\CommonClass\\IO_Stepper_Config.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T15:59:20.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "OFFSET.cs",
+              "DocumentMoniker": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\GRT\\Data\\OFFSET.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\GRT\\Data\\OFFSET.cs",
+              "ToolTip": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\GRT\\Data\\OFFSET.cs",
+              "RelativeToolTip": "MasterUIsource\\Master\\GRT\\Data\\OFFSET.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T19:00:04.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Cylinder_config.cs",
+              "DocumentMoniker": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\CommonClass\\Cylinder_config.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\CommonClass\\Cylinder_config.cs",
+              "ToolTip": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\CommonClass\\Cylinder_config.cs",
+              "RelativeToolTip": "MasterUIsource\\Master\\CommonClass\\Cylinder_config.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAASwBsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T15:45:02.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "OFFSETK.cs",
+              "DocumentMoniker": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\GRT\\Data\\OFFSETK.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\GRT\\Data\\OFFSETK.cs",
+              "ToolTip": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\GRT\\Data\\OFFSETK.cs",
+              "RelativeToolTip": "MasterUIsource\\Master\\GRT\\Data\\OFFSETK.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T20:26:30.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "OFFSETNK.cs",
+              "DocumentMoniker": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\GRT\\Data\\OFFSETNK.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\GRT\\Data\\OFFSETNK.cs",
+              "ToolTip": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\GRT\\Data\\OFFSETNK.cs",
+              "RelativeToolTip": "MasterUIsource\\Master\\GRT\\Data\\OFFSETNK.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T20:26:33.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "StepperSystem.cs",
+              "DocumentMoniker": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\GRT\\Function\\CommonClass\\StepperSystem.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\GRT\\Function\\CommonClass\\StepperSystem.cs",
+              "ToolTip": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\GRT\\Function\\CommonClass\\StepperSystem.cs",
+              "RelativeToolTip": "MasterUIsource\\Master\\GRT\\Function\\CommonClass\\StepperSystem.cs",
+              "ViewState": "AgIAALcAAAAAAAAAAADgv8EAAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T19:14:14.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "FEEDER_SAFE.cs",
+              "DocumentMoniker": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\GRT\\Data\\FEEDER_SAFE.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\GRT\\Data\\FEEDER_SAFE.cs",
+              "ToolTip": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\GRT\\Data\\FEEDER_SAFE.cs",
+              "RelativeToolTip": "MasterUIsource\\Master\\GRT\\Data\\FEEDER_SAFE.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T19:03:03.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "AEParameter.cs",
+              "DocumentMoniker": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\GRT\\Data\\AEParameter.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\GRT\\Data\\AEParameter.cs",
+              "ToolTip": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\GRT\\Data\\AEParameter.cs",
+              "RelativeToolTip": "MasterUIsource\\Master\\GRT\\Data\\AEParameter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T19:02:23.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "RFReader.cs",
+              "DocumentMoniker": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\CommonClass\\RFReader.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\CommonClass\\RFReader.cs",
+              "ToolTip": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\CommonClass\\RFReader.cs",
+              "RelativeToolTip": "MasterUIsource\\Master\\CommonClass\\RFReader.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAUwIYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T15:59:29.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\UIForms\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\UIForms\\MainForm.Designer.cs",
+              "ToolTip": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\UIForms\\MainForm.Designer.cs",
+              "RelativeToolTip": "MasterUIsource\\Master\\UIForms\\MainForm.Designer.cs",
+              "ViewState": "AgIAAJkAAAAAAAAAAAD4v6wAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T16:13:33.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "GlobalAutoSequenceExecutor.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\AppData\\Local\\Temp\\.vsdbgsrc\\5e6c68b0f899e19491c12328defc0e0561fd0e9e0a2336949d89ac49c0ce43b0\\GlobalAutoSequenceExecutor.cs",
+              "ToolTip": "C:\\Users\\Admin\\AppData\\Local\\Temp\\.vsdbgsrc\\5e6c68b0f899e19491c12328defc0e0561fd0e9e0a2336949d89ac49c0ce43b0\\GlobalAutoSequenceExecutor.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAQwEoAAAACAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T15:58:08.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "AlarmScreen.cs",
+              "DocumentMoniker": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\UIForms\\AlarmScreen.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\UIForms\\AlarmScreen.cs",
+              "ToolTip": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\UIForms\\AlarmScreen.cs",
+              "RelativeToolTip": "MasterUIsource\\Master\\UIForms\\AlarmScreen.cs",
+              "ViewState": "AgIAANsAAAAAAAAAAAAcwOYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T16:10:47.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "DynamicCylinder.cs",
+              "DocumentMoniker": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\UIForms\\DynamicCylinder.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\UIForms\\DynamicCylinder.cs",
+              "ToolTip": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\UIForms\\DynamicCylinder.cs",
+              "RelativeToolTip": "MasterUIsource\\Master\\UIForms\\DynamicCylinder.cs",
+              "ViewState": "AgIAACwBAAAAAAAAAAAcwDcBAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T16:11:39.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "DynamicVaccum.cs",
+              "DocumentMoniker": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\UIForms\\DynamicVaccum.cs",
+              "RelativeDocumentMoniker": "MasterUIsource\\Master\\UIForms\\DynamicVaccum.cs",
+              "ToolTip": "D:\\01_GRT\\Working_backup_Dev\\New\\Finle\\MasterUIsource\\Master\\UIForms\\DynamicVaccum.cs",
+              "RelativeToolTip": "MasterUIsource\\Master\\UIForms\\DynamicVaccum.cs",
+              "ViewState": "AgIAACoBAAAAAAAAAAAcwDUBAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T16:11:54.449Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 50,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             }
           ]
         }
